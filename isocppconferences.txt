@@ -9,7 +9,8 @@
 | [C++Now][4]                      | 2019 | May 5-10           | Aspen, Colorado, USA  | Closed                         | **[Open][13]**           | [Schedule][14]  | [Guide][91]          |
 | [Core C++][5]                    | 2019 | May 14-7           | Tel-Aviv, Israel      | Closed                         | **[Open][15]**           | [Schedule][16]  |                      |
 | [Italian C++ Conference 2019][6] | 2019 | June 15            | Milan, Italy          | Closed                         | **[Open][106]**          | [Schedule][17]  |                      |
-| [NDC TechTown][109]              | 2019 | September 2-5      | Kongsberg, Norway     | [Ends on April 24][108]        | **[Open][110]**          | [Speakers][111] |                      |
+| [CPPP ][113]                     | 2019 | June 15            | Paris, France         |                                | **[Open][115]**          | [Schedule][114] |                      |
+| [NDC TechTown][109]              | 2019 | September 2-5      | Kongsberg, Norway     | [Ends on April 24][108]        | **[Open][110]**          | [Schedule][111] |                      |
 | [CppCon][7]                      | 2019 | September 15-20    | Aurora, Colorado, USA | [Ends on May 11][95]           | [General 2019-9-15][18]  |                 | [Guide][19]          |
 | [Meeting C++][8]                 | 2019 | November 14-16     | Berlin, Germany       | [Ends on June 10][94]          |                          |                 |                      |
 | [code::dive][9]                  | 2019 | November 20-21     | Wrocław, Poland       | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
@@ -168,3 +169,6 @@
 [110] : https://ndctechtown.com/page/tickets/
 [111] : https://ndctechtown.com/speakers/
 [112] : https://codedive.pl/register/cfp
+[113] : http://cppp.fr/
+[114] : http://cppp.fr/#c66
+[115] : http://cppp.fr/index.php?id=14
