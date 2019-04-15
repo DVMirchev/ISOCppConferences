@@ -11,7 +11,7 @@
 | [Italian C++ Conference 2019][6] | 2019 | June 15            | Milan, Italy          | Closed                         | **[Open][106]**          | [Schedule][17]  |                      |
 | [CPPP ][113]                     | 2019 | June 15            | Paris, France         | Closed                         | **[Open][115]**          | [Schedule][114] |                      |
 | [NDC TechTown][109]              | 2019 | September 2-5      | Kongsberg, Norway     | [Ends on April 24][108]        | **[Open][110]**          | [Schedule][111] |                      |
-| [CppCon][7]                      | 2019 | September 15-20    | Aurora, Colorado, USA |                                | [General 2019-9-15][18]  |                 | [Guide][19]          |
+| [CppCon][7]                      | 2019 | September 15-20    | Aurora, Colorado, USA | Ends on May 20                 | **[Open][18]**           |                 | [Guide][19]          |
 | [Meeting C++][8]                 | 2019 | November 14-16     | Berlin, Germany       | [Ends on June 10][94]          |                          |                 |                      |
 | [code::dive][9]                  | 2019 | November 20-21     | Wrocław, Poland       | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
 
@@ -74,7 +74,7 @@
 [15] : https://ti.to/hamakor/core-cpp-2019
 [16] : https://corecpp.org/schedule/
 [17] : https://www.italiancpp.org/event/itcppcon19/
-[18] : https://cppcon.org/registration/
+[18] : https://cppcon.org/regopen2019/
 [19] : https://j.mp/CppConReviewersGuide
 [20] : https://codedive.pl/#speakers-section
 [21] : https://www.embo.io/
