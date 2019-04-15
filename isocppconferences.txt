@@ -4,7 +4,6 @@
 
 |                Name              | Year | Conference<br>Date |         Location      | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee |
 | -------------------------------- | ---- | ------------------ | --------------------- | ------------------------------ | ------------------------ | --------------- | -------------------- |
-| [ACCU][2]                        | 2019 | April 10-13        | Bristol, UK           | Closed                         | [Open][92]               | [Schedule][11]  |                      |
 | [C++ Russia][3]                  | 2019 | April 19-20        | Moscow, Russia        | Closed                         | **[Open][107]**          | [Schedule][12]  |                      |
 | [C++Now][4]                      | 2019 | May 5-10           | Aspen, Colorado, USA  | Closed                         | **[Open][13]**           | [Schedule][14]  | [Guide][91]          |
 | [Core C++][5]                    | 2019 | May 14-7           | Tel-Aviv, Israel      | Closed                         | **[Open][15]**           | [Schedule][16]  |                      |
@@ -19,6 +18,7 @@
 
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |      Talks              | Lightning<br>Talks     | Slides             |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ---------------------- | ------------------ |
+| [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  |                         |                        |                    |
 | [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  |                         |                        |                    |
 | [emBO++][21]          | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                        |                    |
 | [Cpp Europe][23]      | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  |                         |                        |                    |
