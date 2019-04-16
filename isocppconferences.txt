@@ -21,12 +21,12 @@
 | [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  |                         |                        |                    |
 | [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  |                         |                        |                    |
 | [emBO++][21]          | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                        |                    |
-| [Cpp Europe][23]      | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  |                         |                        |                    |
+| [Cpp Europe][23]      | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  | [Cpp Europe 2019][92]   |                        | [Slides][95]       |
 | [C++ on Sea][25]      | 2019 | February 4-6       | Folkestone, UK            | [Schedule][26]  | [Day 1][27] [Day 2][28] | [C++ on Sea][29]       | [Slides][47]       |
 |                       |      |                    |                           |                 |                         |                        |                    |
 | [Meeting C++][36]     | 2018 | November 15-17     | Berlin, Germany           | [Schedule][37]  | [Meeting C++ 2018][39]  | [Meeting C++][40]      | [Slides][38]       |
 | [pacific++][33]       | 2018 | October 18-19      | Sydney, Australia         | [Schedule][34]  | [pacific++ 2018][35]    |                        |                    |
-| [CppCon][7]           | 2018 | September 24-28    | Bellevue, Washington, USA | [Schedule][33]  | [CppCon 2018][31]       | [CppCon 2018][32]      | [Slides][46]       |
+| [CppCon][7]           | 2018 | September 24-28    | Bellevue, Washington, USA | [Schedule][30]  | [CppCon 2018][31]       | [CppCon 2018][32]      | [Slides][46]       |
 | [C++Now][41]          | 2018 | May 7-11           | Aspen, Colorado, USA      | [Schedule][42]  | [C++Now 2018][43]       | [C++Now 2018][44]      | [Slides][45]       |
 | [ACCU][96]            | 2018 | April 11-14        | Bristol, UK               | [Schedule][97]  | [ACCU 2018][99]         |                        | [In Schedule][97]  |
 |                       |      |                    |                           |                 |                         |                        |                    |
@@ -148,10 +148,10 @@
 [89] : https://www.youtube.com/user/MeetingCPP/search?query=%22Lightning+Talks+Meeting+C%2B%2B+2016%22
 [90] : https://www.youtube.com/playlist?list=PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl
 [91] : https://j.mp/CppNowReviewersGuide
-[92] : http://www.cvent.com/events/accu-2019/event-summary-17412503fe4342afaee87bd9f57c5d42.aspx
+[92] : https://www.youtube.com/playlist?list=PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl
 [93] : https://www.youtube.com/playlist?list=PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3
 [94] : https://meetingcpp.com/mcpp/submittalk/
-[95] : https://cppcon.org/submissions/
+[95] : https://cppeurope.com/cppeurope-26-february-2019-bucharest/
 [96] : https://conference.accu.org/2018/accu2018.html
 [97] : https://conference.accu.org/2018/schedule.html
 [98] : https://www.youtube.com/playlist?list=PL9hrFapz4dsOQmv7bcGoxl0iN3NRm_22N
