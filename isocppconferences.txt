@@ -4,7 +4,6 @@
 
 |                Name              | Year | Conference<br>Date |         Location      | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee |
 | -------------------------------- | ---- | ------------------ | --------------------- | ------------------------------ | ------------------------ | --------------- | -------------------- |
-| [C++ Russia][3]                  | 2019 | April 19-20        | Moscow, Russia        | Closed                         | **[Open][107]**          | [Schedule][12]  |                      |
 | [C++Now][4]                      | 2019 | May 5-10           | Aspen, Colorado, USA  | Closed                         | **[Open][13]**           | [Schedule][14]  | [Guide][91]          |
 | [Core C++][5]                    | 2019 | May 14-7           | Tel-Aviv, Israel      | Closed                         | **[Open][15]**           | [Schedule][16]  |                      |
 | [Italian C++ Conference 2019][6] | 2019 | June 15            | Milan, Italy          | Closed                         | **[Open][106]**          | [Schedule][17]  |                      |
@@ -18,6 +17,7 @@
 
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |      Talks              | Lightning<br>Talks     | Slides             |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ---------------------- | ------------------ |
+| [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                        |                    |
 | [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  |                         |                        |                    |
 | [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  |                         |                        |                    |
 | [emBO++][21]          | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                        |                    |
@@ -163,7 +163,7 @@
 [104] : https://conference.accu.org/2016/schedule.html
 [105] : https://www.youtube.com/results?search_query=ACCU+2016
 [106] : https://www.eventbrite.it/e/italian-c-conference-2019-tickets-56967757095
-[107] : https://cppconf.ru/en/registration/
+[107] : https://www.youtube.com/watch?v=Cf1GfyUUvOQ
 [108] : https://ndctechtown.com/page/call-for-papers/
 [109] : https://ndctechtown.com/
 [110] : https://ndctechtown.com/page/tickets/
