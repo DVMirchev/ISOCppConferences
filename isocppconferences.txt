@@ -18,7 +18,7 @@
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |      Talks              | Lightning<br>Talks     | Slides             |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ---------------------- | ------------------ |
 | [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                        |                    |
-| [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  |                         |                        |                    |
+| [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                        | [Slides][117]      |
 | [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  |                         |                        |                    |
 | [emBO++][21]          | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                        |                    |
 | [Cpp Europe][23]      | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  | [Cpp Europe 2019][92]   |                        | [Slides][95]       |
@@ -172,3 +172,5 @@
 [113] : http://cppp.fr/
 [114] : http://cppp.fr/#c66
 [115] : http://cppp.fr/index.php?id=14
+[116] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/search?query=2019
+[117] : https://github.com/ACCUConf/PDFs_2019
