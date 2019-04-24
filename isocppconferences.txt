@@ -155,13 +155,13 @@
 [96] : https://conference.accu.org/2018/accu2018.html
 [97] : https://conference.accu.org/2018/schedule.html
 [98] : https://cppcon.org/submissions/
-[99] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/search?query=ACCU+2018
+[99] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/playlists?view=50&flow=grid&shelf_id=12
 [100] : https://conference.accu.org/2017/accu2017.html
 [101] : https://conference.accu.org/2017/schedule.html
-[102] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/search?query=ACCU+2017
+[102] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/playlists?view=50&flow=grid&shelf_id=11
 [103] : https://conference.accu.org/2016/accu2016.html
 [104] : https://conference.accu.org/2016/schedule.html
-[105] : https://www.youtube.com/results?search_query=ACCU+2016
+[105] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/playlists?view=50&flow=grid&shelf_id=3
 [106] : https://www.eventbrite.it/e/italian-c-conference-2019-tickets-56967757095
 [107] : https://www.youtube.com/watch?v=Cf1GfyUUvOQ
 [108] : https://ndctechtown.com/page/call-for-papers/
