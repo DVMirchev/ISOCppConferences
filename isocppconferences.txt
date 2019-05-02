@@ -15,45 +15,45 @@
 
 ### Past Conferences {#conferences-past}
 
-|                Name   | Year | Conference<br>Date |         Location          | Schedule        |      Talks              | Lightning<br>Talks     | Slides             |
-| --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ---------------------- | ------------------ |
-| [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                        |                    |
-| [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                        | [Slides][117]      |
-| [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  |                         |                        |                    |
-| [emBO++][21]          | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                        |                    |
-| [Cpp Europe][23]      | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  | [Cpp Europe 2019][92]   |                        | [Slides][95]       |
-| [C++ on Sea][25]      | 2019 | February 4-6       | Folkestone, UK            | [Schedule][26]  | [Day 1][27] [Day 2][28] | [C++ on Sea][29]       | [Slides][47]       |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [Meeting C++][36]     | 2018 | November 15-17     | Berlin, Germany           | [Schedule][37]  | [Meeting C++ 2018][39]  | [Meeting C++][40]      | [Slides][38]       |
-| [pacific++][33]       | 2018 | October 18-19      | Sydney, Australia         | [Schedule][34]  | [pacific++ 2018][35]    |                        |                    |
-| [CppCon][7]           | 2018 | September 24-28    | Bellevue, Washington, USA | [Schedule][30]  | [CppCon 2018][31]       | [CppCon 2018][32]      | [Slides][46]       |
-| [C++Now][41]          | 2018 | May 7-11           | Aspen, Colorado, USA      | [Schedule][42]  | [C++Now 2018][43]       | [C++Now 2018][44]      | [Slides][45]       |
-| [ACCU][96]            | 2018 | April 11-14        | Bristol, UK               | [Schedule][97]  | [ACCU 2018][99]         |                        | [In Schedule][97]  |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [pacific++][33]       | 2017 | October 26-27      | Sydney, Australia         |                 | [pacific++ 2017][93]    |                        |                    |
-| [Meeting C++][82]     | 2017 | November 9-11      | Berlin, Germany           | [Schedule][83]  | [Meeting C++ 2017][84]  |                        | [Slides (zip)][85] |
-| [CppCon][7]           | 2017 | September 25-29    | Bellevue, Washington, USA | [Schedule][48]  | [CppCon 2017][49]       | [CppCon 2017][50]      | [Slides][51]       |
-| [C++Now][79]          | 2017 | May 16-20          | Aspen, Colorado, USA      | [Schedule][63]  | [C++Now 2017][64]       | [C++Now 2017][65]      | [Slides][66]       |
-| [ACCU][100]           | 2017 | April 24-29        | Bristol, UK               | [Schedule][101] | [ACCU 2017][102]        |                        | [In Schedule][101] |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [Meeting C++][8]      | 2016 | November 18-19     | Berlin, Germany           |                 | [Meeting C++ 2016][86]  | [Meeting C++ 2016][89] |                    |
-| [CppCon][7]           | 2016 | September 19-23    | Bellevue, Washington, USA | [Schedule][52]  | [CppCon 2016][53]       | [CppCon 2016][54]      | [Slides][55]       |
-| [C++Now][80]          | 2016 | May 10-14          | Aspen, Colorado, USA      | [Schedule][67]  | [C++Now 2016][68]       |                        | [Slides][69]       |
-| [ACCU][103]           | 2016 | April 24-29        | Bristol, UK               | [Schedule][104] | [ACCU 2016][105]        |                        | [In Schedule][104] |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [Meeting C++][8]      | 2015 | December 4-5       | Berlin, Germany           |                 | [Meeting C++ 2015][87]  | [Meeting C++ 2015][88] |                    |
-| [CppCon][7]           | 2015 | September 21-25    | Bellevue, Washington, USA | [Schedule][56]  | [CppCon 2015][57]       | [CppCon 2015][58]      | [Slides][59]       |
-| [C++Now][81]          | 2015 | May 12-15          | Aspen, Colorado, USA      | [Schedule][70]  | [C++Now 2015][71]       |                        | [Slides][72]       |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [Meeting C++][8]      | 2014 | December 5-6       | Berlin, Germany           |                 | [Meeting C++ 2014][90]  |                        |                    |
-| [CppCon][7]           | 2014 | September 8-12     | Bellevue, Washington, USA | [Schedule][60]  | [CppCon 2014][61]       |                        | [Slides][62]       |
-| [C++Now][4]           | 2014 | May 12-15          | Aspen, Colorado, USA      |                 | [C++Now 2014][73]       |                        | [Slides][74]       |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [Meeting C++][8]      | 2013 | November 8-9       | Düsseldorf/Neuss, Germany |                 |                         |                        |                    |
-| [C++Now][4]           | 2013 | May 12-17          | Aspen, Colorado, USA      |                 | [C++Now 2013][75]       |                        | [Slides][76]       |
-|                       |      |                    |                           |                 |                         |                        |                    |
-| [Meeting C++][8]      | 2012 | November 9-12      | Düsseldorf/Neuss, Germany |                 |                         |                        |                    |
-| [C++Now][4]           | 2012 | May 13-18          | Aspen, Colorado, USA      |                 | [C++Now 2012][77]       |                        | [Slides][78]       |
+|                Name   | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
+| --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ----------------------  | ------------------ | ------------------|
+| [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
+| [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                         | [Slides][117]      | [YouTube][122]    |
+| [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  | [2019 EuroLLVM][128]    |                         |                    | [YouTube][126]    |
+| [emBO++][21]          | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                         |                    | [YouTube][125]    |
+| [Cpp Europe][23]      | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  | [Cpp Europe 2019][92]   |                         | [Slides][95]       | [YouTube][129]    |
+| [C++ on Sea][25]      | 2019 | February 4-6       | Folkestone, UK            | [Schedule][26]  | [Day 1][27] [Day 2][28] | [C++ on Sea][29]        | [Slides][47]       | [YouTube][124]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [Meeting C++][36]     | 2018 | November 15-17     | Berlin, Germany           | [Schedule][37]  | [Meeting C++ 2018][39]  | [Meeting C++][40]       | [Slides][38]       | [YouTube][121]    |
+| [pacific++][33]       | 2018 | October 18-19      | Sydney, Australia         | [Schedule][34]  | [pacific++ 2018][35]    |                         |                    | [YouTube][123]    |
+| [CppCon][7]           | 2018 | September 24-28    | Bellevue, Washington, USA | [Schedule][30]  | [CppCon 2018][31]       | [CppCon 2018][32]       | [Slides][46]       | [YouTube][118] [Channel&nbsp;9][119]|
+| [C++Now][41]          | 2018 | May 7-11           | Aspen, Colorado, USA      | [Schedule][42]  | [C++Now 2018][43]       | [C++Now 2018][44]       | [Slides][45]       | [YouTube][120]    |
+| [ACCU][96]            | 2018 | April 11-14        | Bristol, UK               | [Schedule][97]  | [ACCU 2018][99]         |                         | [In Schedule][97]  | [YouTube][122]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [pacific++][33]       | 2017 | October 26-27      | Sydney, Australia         |                 | [pacific++ 2017][93]    |                         |                    | [YouTube][123]    |
+| [Meeting C++][82]     | 2017 | November 9-11      | Berlin, Germany           | [Schedule][83]  | [Meeting C++ 2017][84]  |                         | [Slides (zip)][85] | [YouTube][121]    |
+| [CppCon][7]           | 2017 | September 25-29    | Bellevue, Washington, USA | [Schedule][48]  | [CppCon 2017][49]       | [CppCon 2017][50]       | [Slides][51]       | [YouTube][118] [Channel&nbsp;9][119]|
+| [C++Now][79]          | 2017 | May 16-20          | Aspen, Colorado, USA      | [Schedule][63]  | [C++Now 2017][64]       | [C++Now 2017][65]       | [Slides][66]       | [YouTube][120]    |
+| [ACCU][100]           | 2017 | April 24-29        | Bristol, UK               | [Schedule][101] | [ACCU 2017][102]        |                         | [In Schedule][101] | [YouTube][122]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [Meeting C++][8]      | 2016 | November 18-19     | Berlin, Germany           |                 | [Meeting C++ 2016][86]  | [Meeting C++ 2016][89]  |                    | [YouTube][121]    |
+| [CppCon][7]           | 2016 | September 19-23    | Bellevue, Washington, USA | [Schedule][52]  | [CppCon 2016][53]       | [CppCon 2016][54]       | [Slides][55]       | [YouTube][118] [Channel&nbsp;9][119]|
+| [C++Now][80]          | 2016 | May 10-14          | Aspen, Colorado, USA      | [Schedule][67]  | [C++Now 2016][68]       |                         | [Slides][69]       | [YouTube][120]    |
+| [ACCU][103]           | 2016 | April 24-29        | Bristol, UK               | [Schedule][104] | [ACCU 2016][105]        |                         | [In Schedule][104] | [YouTube][122]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [Meeting C++][8]      | 2015 | December 4-5       | Berlin, Germany           |                 | [Meeting C++ 2015][87]  | [Meeting C++ 2015][88]  |                    | [YouTube][121]    |
+| [CppCon][7]           | 2015 | September 21-25    | Bellevue, Washington, USA | [Schedule][56]  | [CppCon 2015][57]       | [CppCon 2015][58]       | [Slides][59]       | [YouTube][118] [Channel&nbsp;9][119]|
+| [C++Now][81]          | 2015 | May 12-15          | Aspen, Colorado, USA      | [Schedule][70]  | [C++Now 2015][71]       |                         | [Slides][72]       | [YouTube][120]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [Meeting C++][8]      | 2014 | December 5-6       | Berlin, Germany           |                 | [Meeting C++ 2014][90]  |                         |                    | [YouTube][121]    |
+| [CppCon][7]           | 2014 | September 8-12     | Bellevue, Washington, USA | [Schedule][60]  | [CppCon 2014][61]       |                         | [Slides][62]       | [YouTube][118] [Channel&nbsp;9][119]|
+| [C++Now][4]           | 2014 | May 12-15          | Aspen, Colorado, USA      |                 | [C++Now 2014][73]       |                         | [Slides][74]       | [YouTube][120]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [Meeting C++][8]      | 2013 | November 8-9       | Düsseldorf/Neuss, Germany |                 |                         |                         |                    | [YouTube][121]    |
+| [C++Now][4]           | 2013 | May 12-17          | Aspen, Colorado, USA      |                 | [C++Now 2013][75]       |                         | [Slides][76]       | [YouTube][120]    |
+|                       |      |                    |                           |                 |                         |                         |                    |
+| [Meeting C++][8]      | 2012 | November 9-12      | Düsseldorf/Neuss, Germany |                 |                         |                         |                    | [YouTube][121]    |
+| [C++Now][4]           | 2012 | May 13-18          | Aspen, Colorado, USA      |                 | [C++Now 2012][77]       |                         | [Slides][78]       | [YouTube][120]    |
 
 
 
@@ -174,3 +174,15 @@
 [115] : http://cppp.fr/index.php?id=14
 [116] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/search?query=2019
 [117] : https://github.com/ACCUConf/PDFs_2019
+[118] : https://www.youtube.com/user/CppCon/
+[119] : https://channel9.msdn.com/Events/CPP/
+[120] : https://www.youtube.com/user/boostcon/
+[121] : https://www.youtube.com/user/MeetingCPP/
+[122] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw
+[123] : https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw
+[124] : https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw
+[125] : https://www.youtube.com/channel/UCg2JbpJ-PGdFUEZEiNr0GWg/
+[126] : https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ/
+[127] : https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA
+[128] : https://www.youtube.com/watch?v=CPokKMqAVdY&list=PL_R5A0lGi1ADu1ccg_aykRC3dxhlIKShL
+[129] : https://www.youtube.com/channel/UCZS60J7KcQOLf87H3P_PTlg

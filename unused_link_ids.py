@@ -1,8 +1,12 @@
 with open("isocppconferences.txt") as wiki_page:
     wiki_text = wiki_page.read()
+
     count = -1
-    index = 1
+    index = 0
+
     while count != 0:
+
+        index += 1
         count = wiki_text.count('[{}]'.format(index))
 
         if count == 1:
@@ -10,5 +14,8 @@ with open("isocppconferences.txt") as wiki_page:
 #        else:
 #           print('[{}] is found {} times'.format(index, count))
 
-        index += 1
+
+    print('The biggest index is [{}]'.format(index - 1))
+
+
 
