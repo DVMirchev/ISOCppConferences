@@ -167,7 +167,7 @@
 [108] : https://ndctechtown.com/page/call-for-papers/
 [109] : https://ndctechtown.com/
 [110] : https://ndctechtown.com/page/tickets/
-[111] : https://ndctechtown.com/speakers/
+[111] : https://ndctechtown.com/agenda/
 [112] : https://codedive.pl/register/cfp
 [113] : http://cppp.fr/
 [114] : http://cppp.fr/#c66
