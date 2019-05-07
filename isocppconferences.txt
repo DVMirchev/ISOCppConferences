@@ -2,16 +2,17 @@
 
 ### Upcoming Conferences {#conferences-upcoming}
 
-|                Name              | Year | Conference<br>Date |         Location      | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee |
-| -------------------------------- | ---- | ------------------ | --------------------- | ------------------------------ | ------------------------ | --------------- | -------------------- |
-| [C++Now][4]                      | 2019 | May 5-10           | Aspen, Colorado, USA  | Closed                         | **[Open][13]**           | [Schedule][14]  | [Guide][91]          |
-| [Core C++][5]                    | 2019 | May 14-7           | Tel-Aviv, Israel      | Closed                         | **[Open][15]**           | [Schedule][16]  |                      |
-| [Italian C++ Conference 2019][6] | 2019 | June 15            | Milan, Italy          | Closed                         | **[Open][106]**          | [Schedule][17]  |                      |
-| [CPPP ][113]                     | 2019 | June 15            | Paris, France         | Closed                         | **[Open][115]**          | [Schedule][114] |                      |
-| [NDC TechTown][109]              | 2019 | September 2-5      | Kongsberg, Norway     | Closed                         | **[Open][110]**          | [Schedule][111] |                      |
-| [CppCon][7]                      | 2019 | September 15-20    | Aurora, Colorado, USA | [Ends on May 20][98]           | **[Open][18]**           |                 | [Guide][19]          |
-| [Meeting C++][8]                 | 2019 | November 14-16     | Berlin, Germany       | [Ends on June 10][94]          |                          |                 |                      |
-| [code::dive][9]                  | 2019 | November 20-21     | Wrocław, Poland       | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
+|                Name               | Year | Conference<br>Date |         Location       | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee |
+| --------------------------------  | ---- | ------------------ | ---------------------  | ------------------------------ | ------------------------ | --------------- | -------------------- |
+| [C++Now][4]                       | 2019 | May 5-10           | Aspen, Colorado, USA   | Closed                         | **[Open][13]**           | [Schedule][14]  | [Guide][91]          |
+| [Core C++][5]                     | 2019 | May 14-7           | Tel-Aviv, Israel       | Closed                         | **[Open][15]**           | [Schedule][16]  |                      |
+| [Italian C++ Conference 2019][6]  | 2019 | June 15            | Milan, Italy           | Closed                         | **[Open][106]**          | [Schedule][17]  |                      |
+| [CPPP ][113]                      | 2019 | June 15            | Paris, France          | Closed                         | **[Open][115]**          | [Schedule][114] |                      |
+| [NDC TechTown][109]               | 2019 | September 2-5      | Kongsberg, Norway      | Closed                         | **[Open][110]**          | [Schedule][111] |                      |
+| [CppCon][7]                       | 2019 | September 15-20    | Aurora, Colorado, USA  | [Ends on May 20][98]           | **[Open][18]**           |                 | [Guide][19]          |
+| [C++Russia][131]                  | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia | [Ends on August 8][130]        |                          | [Speakers][131] | [Guide][132]         |
+| [Meeting C++][8]                  | 2019 | November 14-16     | Berlin, Germany        | [Ends on June 10][94]          |                          |                 |                      |
+| [code::dive][9]                   | 2019 | November 20-21     | Wrocław, Poland        | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
 
 ### Past Conferences {#conferences-past}
 
@@ -186,3 +187,7 @@
 [127] : https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA
 [128] : https://www.youtube.com/watch?v=CPokKMqAVdY&list=PL_R5A0lGi1ADu1ccg_aykRC3dxhlIKShL
 [129] : https://www.youtube.com/channel/UCZS60J7KcQOLf87H3P_PTlg
+[130] : https://cppconf-piter.ru/callforpapers/
+[131] : https://cppconf-piter.ru/
+[132] : https://cppconf-piter.ru/#speakers
+[133] : https://cppconf-piter.ru/organizers/
