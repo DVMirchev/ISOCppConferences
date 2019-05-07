@@ -1,0 +1,65 @@
+## Conferences Worldwide   {#conferences-worldwide}
+
+### Schedule   {#conferences-schedule}
+
+|                Name                             | Year | Conference<br>Date |         Location     | Call for<br>Proposals deadline | Registration<br>deadline | Schedule | Program<br>committee |
+| ----------------------------------------------- | ---- | ------------------ | -------------------- | ------------------------------ | ------------------------ | -------- | -------------------- |
+| [EuroLLVM](http://www.llvm.org/devmtg/2019-04/) | 2019 | April 8-9          | Brussels, Belgium    | Closed | 2019-03-27 |[Schedule ](https://eurollvm2019.sched.com/)    |                      |
+| [ACCU](https://conference.accu.org/)            | 2019 | April 10-13        | Bristol, UK          | Closed | | [Schedule](https://conference.accu.org/2019/schedule.html)|                      |
+| [C++ Russia](https://cppconf.ru/en/)            | 2019 | April 19-20        | Moscow, Russia       |**[Open](https://cppconf.ru/en/callforpapers/)**||[Speakers](https://cppconf.ru/en/#speakers)| |
+| [C++Now](http://cppnow.org/)                    | 2019 | May 5-10           | Aspen, Colorado, USA | Closed | **[Open](http://cppnow.org/registration/)** | [Soon](http://cppnow.org/schedule/) |   |
+| [Core C++](https://corecpp.org/)                | 2019 | May 14-7           | Tel-Aviv, Israel     | Closed | **[Open](https://ti.to/hamakor/core-cpp-2019)** | [Schedule](https://corecpp.org/schedule/) ||
+| [Italian C++ Conference 2019](https://www.italiancpp.org/event/itcppcon19/) | 2019 | June 19 | Milan, Italy | Closed | Opens in April | [Schedule](https://www.italiancpp.org/event/itcppcon19/) | |
+| [CppCon](https://cppcon.org/)                   | 2019 | September 15-20    | Aurora, Colorado, USA| March 27 - May 11 | [General 2019-9-15](https://cppcon.org/registration/)|| [Stuff](https://cppcon.org/staff/) | 
+| [Meeting C++](https://meetingcpp.com/)          | 2019 | November 14-16     | Berlin, Germany      | | | | | 
+
+
+### Asia / Pacific   {#conferences-apac}
+
+[C++ and System Software Summit - China](http://cpp-summit.org/en)
+
+[CppSiberia - Russia](http://cppconf.ru)
+
+[PacifiC++ - Australia/New Zealand/Asia](https://pacificplusplus.com/) -- [Video Channel](https://www.youtube.com/channel/UCrRR5mU5aqvtZAuEGYfdTjw)
+
+[Pure C++ - China](http://purecpp.org/detail?id=2050)
+
+### Europe   {#conferences-europe}
+
+[ACCU - UK](https://accu.org/index.php/conferences) -- [Trip Reports](https://conference.accu.org/2018/attender_reports.html) -- [Video Channel](https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/featured)
+
+[Audio Developers Conference - UK](https://juce.com/adc-2017)
+
+[C++ On Sea - UK](https://cpponsea.uk/)
+
+[code::dive - Poland](https://codedive.pl/) -- [Video Channel](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g/featured)
+
+[Core C++ - Israel](http://corecpp.org/)
+
+[CoreHard - Belarus](http://conference.corehard.by/)
+
+[CppRussia - Russia](http://cppconf.ru) -- [Video Channel](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA/featured)
+
+[emBO++ - Germany](https://www.embo.io/)
+
+[EuroLLVM - Europe](http://llvm.org/devmtg/)
+
+[Italian CppCon](http://www.italiancpp.org/) -- [Trip Reports](http://www.italiancpp.org/2017/07/04/itcppcon17/) -- [Video Channel](https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw)
+
+[Meeting C++ - Germany](http://meetingcpp.com/) -- [Trip Reports](http://meetingcpp.com/2017/#tripreports) -- [Video Channel](https://www.youtube.com/user/MeetingCPP)
+
+[NDC TechTown - Norway](https://ndctechtown.com/)
+
+[Qt World Summit - Biennial, alternating with US](https://www.qtworldsummit.com/)
+
+[usingstdcpp - Spain](https://usingstdcpp.org/inicio/)
+
+### North America   {#conferences-northamerica}
+
+[C++Now - US](http://cppnow.org/) -- [Trip Reports](http://cppnow.org/about/) —- [Video Channel](https://www.youtube.com/user/BoostCon/featured)
+
+[CppCon - US](https://cppcon.org/) -- [Trip Reports](https://cppcon.org/2017-thank-you/) -- [Video Channel](https://www.youtube.com/user/CppCon/featured)
+
+[Qt World Summit - Biennial, alternating with Europe](https://www.qtworldsummit.com/)
+
+[US LLVM Developers Meeting - US](http://llvm.org/devmtg/)
