@@ -4,7 +4,6 @@
 
 |                Name               | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee |
 | --------------------------------  | ---- | ------------------ | ---------------------     | ------------------------------ | ------------------------ | --------------- | -------------------- |
-| [Core C++][5]                     | 2019 | May 14-7           | Tel-Aviv, Israel          | Closed                         | **[Waitlist][15]**           | [Schedule][16]  |                      |
 | [Italian C++ Conference 2019][6]  | 2019 | June 15            | Milan, Italy              | Closed                         | **[Open][106]**          | [Schedule][17]  |                      |
 | [CPPP ][113]                      | 2019 | June 15            | Paris, France             | Closed                         | **[Open][115]**          | [Schedule][114] |                      |
 | [NDC TechTown][109]               | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |
@@ -18,7 +17,8 @@
 
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ----------------------  | ------------------ | ------------------|
-| [C++Now][4]           | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  |                         |                         |                    |                   |
+| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  |                         |                         |                    |                   |
+| [C++Now][4]           | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  |                         |                         |                    | [YouTube][120]    |
 | [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
 | [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                         | [Slides][117]      | [YouTube][122]    |
 | [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  | [2019 EuroLLVM][128]    |                         |                    | [YouTube][126]    |
