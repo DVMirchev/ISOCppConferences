@@ -18,8 +18,8 @@
 
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ----------------------  | ------------------ | ------------------|
-| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  |                         |                         |                    |                   |
-| [C++Now][4]           | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  |                         |                         |                    | [YouTube][120]    |
+| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  |                         |                         | [Slides][98]       |                   |
+| [C++Now][4]           | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  |                         |                         | [Slides][15]       | [YouTube][120]    |
 | [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
 | [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                         | [Slides][117]      | [YouTube][122]    |
 | [EuroLLVM][1]         | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  | [2019 EuroLLVM][128]    |                         |                    | [YouTube][126]    |
@@ -79,7 +79,7 @@
 [12] : https://cppconf.ru/en/#schedule
 [13] : https://codedive.pl/index/year2014
 [14] : http://cppnow.org/history/2019/schedule/
-[15] : https://ti.to/hamakor/core-cpp-2019
+[15] : https://github.com/boostcon/cppnow_presentations_2019
 [16] : https://corecpp.org/schedule/
 [17] : https://www.italiancpp.org/event/itcppcon19/
 [18] : https://cppcon.org/regopen2019/
@@ -162,7 +162,7 @@
 [95] : https://cppeurope.com/cppeurope-26-february-2019-bucharest/
 [96] : https://conference.accu.org/2018/accu2018.html
 [97] : https://conference.accu.org/2018/schedule.html
-[98] : https://cppcon.org/submissions/
+[98] : https://corecppil.github.io/CoreCpp2019/
 [99] : https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw/playlists?view=50&flow=grid&shelf_id=12
 [100] : https://conference.accu.org/2017/accu2017.html
 [101] : https://conference.accu.org/2017/schedule.html
