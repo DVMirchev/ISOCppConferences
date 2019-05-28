@@ -18,7 +18,7 @@
 
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ----------------------  | ------------------ | ------------------|
-| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  |                         |                         | [Slides][98]       |                   |
+| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  |                         |                         | [Slides][98]       | [YouTube][143]    |
 | [C++Now][4]           | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  |                         |                         | [Slides][15]       | [YouTube][120]    |
 | [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
 | [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                         | [Slides][117]      | [YouTube][122]    |
@@ -207,3 +207,4 @@
 [140] : https://www.youtube.com/playlist?list=PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU
 [141] : https://codedive.pl/index/year2018
 [142] : https://www.youtube.com/playlist?list=PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S
+[143] : https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ
