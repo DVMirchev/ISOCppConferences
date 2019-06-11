@@ -10,7 +10,7 @@
 | [CppCon][7]                       | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           |                 | [Guide][19]          |
 | [C++Russia][131]                  | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        |                          | [Speakers][132] | [Guide][133]         |
 | [ACCU Autumn 2019][2]             | 2019 | November 11-12     | Belfast, Northern Ireland | [Ends on June 16][134]         |                          |                 |                      |
-| [Meeting C++][8]                  | 2019 | November 14-16     | Berlin, Germany           | [Ends on June 10][94]          |                          |                 |                      |
+| [Meeting C++][8]                  | 2019 | November 14-16     | Berlin, Germany           | Closed                         |                          |                 |                      |
 | [code::dive][9]                   | 2019 | November 20-21     | Wrocław, Poland           | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
 |                                   |      |                    |                           |                                |                          |                 |                      |
 | [emBO++][21]                      | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |
