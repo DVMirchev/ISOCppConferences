@@ -13,6 +13,7 @@
 | [Meeting C++][8]                  | 2019 | November 14-16     | Berlin, Germany           | [Ends on June 10][94]          |                          |                 |                      |
 | [code::dive][9]                   | 2019 | November 20-21     | Wrocław, Poland           | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
 |                                   |      |                    |                           |                                |                          |                 |                      |
+| [emBO++][21]                      | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |
 | [ACCU][2]                         | 2020 | March 24-28        | Bristol, UK               | 2019-10-04 to 2019-10-25       |                          |                 |                      |
 | [C++Now][4]                       | 2020 | May 3-8            | Aspen, Colorado, USA      |                                |                          |                 |                      |
 
@@ -213,3 +214,4 @@
 [144] : http://llvm.org/devmtg/2019-04/slides/
 [145] : https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ
 [146] : https://www.youtube.com/user/BoostCon/search?query=%22C%2B%2BNow+2019%22
+[147] : https://www.eventbrite.de/e/embo-2020-embedded-c-c-conference-in-germany-tickets-58430897387
