@@ -8,9 +8,9 @@
 | [CPPP ][113]                      | 2019 | June 15            | Paris, France             | Closed                         | **[Open][115]**          | [Schedule][114] |                      |
 | [NDC TechTown][109]               | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |
 | [CppCon][7]                       | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           |                 | [Guide][19]          |
-| [C++Russia][131]                  | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        |                          | [Speakers][132] | [Guide][133]         |
+| [C++Russia][131]                  | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        | **[Open][149]**          | [Speakers][132] | [Guide][133]         |
 | [ACCU Autumn 2019][2]             | 2019 | November 11-12     | Belfast, Northern Ireland | [Ends on June 16][134]         |                          |                 |                      |
-| [Meeting C++][8]                  | 2019 | November 14-16     | Berlin, Germany           | Closed                         |                          |                 |                      |
+| [Meeting C++][8]                  | 2019 | November 14-16     | Berlin, Germany           | Closed                         | **[Open][148]**          |                 |                      |
 | [code::dive][9]                   | 2019 | November 20-21     | Wrocław, Poland           | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |
 |                                   |      |                    |                           |                                |                          |                 |                      |
 | [emBO++][21]                      | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |
@@ -215,3 +215,5 @@
 [145] : https://www.youtube.com/channel/UCE14XYFaK1fDTnOTqlOFrrQ
 [146] : https://www.youtube.com/user/BoostCon/search?query=%22C%2B%2BNow+2019%22
 [147] : https://www.eventbrite.de/e/embo-2020-embedded-c-c-conference-in-germany-tickets-58430897387
+[148] : https://meetingcpp.com/2019/Ticketshop.html
+[149] : https://cppconf-piter.ru/en/registration/
