@@ -21,7 +21,7 @@
 
 |                Name   | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 | --------------------- | ---- | ------------------ | ------------------------- | --------------- | ----------------------- | ----------------------  | ------------------ | ------------------|
-| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ Recap][145]   |                         | [Slides][98]       | [YouTube][143]    |
+| [Core C++][5]         | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ 2019][150]    |                         | [Slides][98]       | [YouTube][143]    |
 | [C++Now][4]           | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  | [C++Now 2019][146]      |                         | [Slides][15]       | [YouTube][120]    |
 | [C++ Russia][3]       | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
 | [ACCU][2]             | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                         | [Slides][117]      | [YouTube][122]    |
@@ -217,3 +217,4 @@
 [147] : https://www.eventbrite.de/e/embo-2020-embedded-c-c-conference-in-germany-tickets-58430897387
 [148] : https://meetingcpp.com/2019/Ticketshop.html
 [149] : https://cppconf-piter.ru/en/registration/
+[150] : https://www.youtube.com/playlist?list=PLn4wYlDYx4bszUM8uUJi55czMYuilXfaR
