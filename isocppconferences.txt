@@ -20,7 +20,7 @@
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------|-----------------------  |--------------------|-------------------|
 | [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] |                         |                         |                    |                   |
-| [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  |                         |                         |                    | [YouTube][151]    |
+| [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162] |                         | [Slides][163]      | [YouTube][151]    |
 | [Core C++][5]                 | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ 2019][150]    |                         | [Slides][98]       | [YouTube][143]    |
 | [C++Now][4]                   | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  | [C++Now 2019][146]      |                         | [Slides][15]       | [YouTube][120]    |
 | [C++ Russia][3]               | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
@@ -232,3 +232,5 @@
 [159] : https://www.youtube.com/playlist?list=PLsCm1Hs016LW0zKJBvemhJ0YWIF1Fezd6
 [160] : http://www.italiancpp.org/eventi/sessioni-conference-2016/#resumable
 [161] : https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/search?query=%22Italian+C%2B%2B+Conference+2016%22
+[162] : https://www.youtube.com/playlist?list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw
+[163] : https://github.com/italiancpp/itcppcon19
