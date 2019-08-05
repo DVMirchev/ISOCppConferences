@@ -6,10 +6,11 @@
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |                          |                         |
 | [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
-| [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
+| [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | **[Ends on August 8][130]**    | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
 | [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | Closed                         | **[Open][165]**          |                 |                      |                          |                         |
 | [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | Closed                         | **[Open][148]**          |                 |                      |                          |                         |
 | [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | Closed                         |                          | [Speakers][20]  |                      |                          |                         |
+| [C++ Day][166]                | 2019 | November 30        | Parma, Italy              | **[Open][167]**                |                          |                 |                      |                          |                         |
 |                               |      |                    |                           |                                |                          |                 |                      |                          |                         |
 | [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |                          |                         |
 | [ACCU][2]                     | 2020 | March 24-28        | Bristol, UK               | 2019-10-04 to 2019-10-25       |                          |                 |                      |                          |                         |
@@ -236,3 +237,5 @@
 [163] : https://github.com/italiancpp/itcppcon19
 [164] : https://cppcon.org/cppcon-2019-program/
 [165] : http://www.cvent.com/events/accu-autumn-conf-2019-wg21/event-summary-8860107a2e864b698109640c823a1855.aspx
+[166] : https://www.italiancpp.org/event/cppday19/
+[167] : https://www.italiancpp.org/eventi/cfs/
