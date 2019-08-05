@@ -6,7 +6,7 @@
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |                          |                         |
 | [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
-| [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        | **[Open][149]**          | [Speakers][132] | [Guide][133]         |                          |                         |
+| [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
 | [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | Closed                         | **[Open][165]**          |                 |                      |                          |                         |
 | [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | Closed                         | **[Open][148]**          |                 |                      |                          |                         |
 | [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | Closed                         |                          | [Speakers][20]  |                      |                          |                         |
@@ -202,7 +202,7 @@
 [129] : https://www.youtube.com/channel/UCZS60J7KcQOLf87H3P_PTlg
 [130] : https://cppconf-piter.ru/callforpapers/
 [131] : https://cppconf-piter.ru/
-[132] : https://cppconf-piter.ru/#speakers
+[132] : https://cppconf-piter.ru/en/schedule/
 [133] : https://cppconf-piter.ru/organizers/
 [134] : https://cfp.conference.accu.org/
 [135] : https://codedive.pl/index/year2015
