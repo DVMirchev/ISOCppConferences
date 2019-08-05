@@ -5,9 +5,9 @@
 |                Name         | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
 |-----------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
 | [NDC TechTown][109]         | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |                          |                         |
-| [CppCon][7]                 | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           |                 | [Guide][19]          |                          |                         |
+| [CppCon][7]                 | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
 | [C++Russia][131]            | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Ends on August 8][130]        | **[Open][149]**          | [Speakers][132] | [Guide][133]         |                          |                         |
-| [ACCU Autumn 2019][2]       | 2019 | November 11-12     | Belfast, Northern Ireland | Closed                         |                          |                 |                      |                          |                         |
+| [ACCU Autumn 2019][2]       | 2019 | November 11-12     | Belfast, Northern Ireland | Closed                         | **[Open][165]**          |                 |                      |                          |                         |
 | [Meeting C++][8]            | 2019 | November 14-16     | Berlin, Germany           | Closed                         | **[Open][148]**          |                 |                      |                          |                         |
 | [code::dive][9]             | 2019 | November 20-21     | Wrocław, Poland           | [Ends on June 30][112]         |                          | [Speakers][20]  |                      |                          |                         |
 |                             |      |                    |                           |                                |                          |                 |                      |                          |                         |
@@ -234,3 +234,5 @@
 [161] : https://www.youtube.com/channel/UCNge3iECU0XKjshac_hdejw/search?query=%22Italian+C%2B%2B+Conference+2016%22
 [162] : https://www.youtube.com/playlist?list=PLsCm1Hs016LU5PDVL3Hxgtuim_IIN4ajw
 [163] : https://github.com/italiancpp/itcppcon19
+[164] : https://cppcon.org/cppcon-2019-program/
+[165] : http://www.cvent.com/events/accu-autumn-conf-2019-wg21/event-summary-8860107a2e864b698109640c823a1855.aspx
