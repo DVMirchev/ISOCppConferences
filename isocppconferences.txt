@@ -2,19 +2,19 @@
 
 ### Upcoming Conferences {#conferences-upcoming}
 
-|                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
-|-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |                          |                         |
-| [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
-| [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | Closed                         | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
-| [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | Closed                         | **[Open][165]**          | [Schedule][168] |                      |                          |                         |
-| [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | Closed                         | **[Open][148]**          | [Schedule][169] |                      |                          |                         |
-| [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | Closed                         |                          | [Speakers][20]  |                      |                          |                         |
-| [C++ Day][166]                | 2019 | November 30        | Parma, Italy              | **[Open][167]**                |                          |                 |                      |                          |                         |
-|                               |      |                    |                           |                                |                          |                 |                      |                          |                         |
-| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |                          |                         |
-| [ACCU][2]                     | 2020 | March 24-28        | Bristol, UK               | 2019-10-04 to 2019-10-25       |                          |                 |                      |                          |                         |
-| [C++Now][4]                   | 2020 | May 3-8            | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
+|                Name            | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
+|--------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
+| [NDC TechTown][109]            | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |                          |                         |
+| [CppCon][7]                    | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
+| [LLVM Developer's Meeting][170]| 2019 | October 22-23      | San Jose, CA, USA         | Closed                         | **[Open][171]**          |                 |                      |                          |                         |
+| [C++Russia][131]               | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | Closed                         | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
+| [ACCU Autumn][2]               | 2019 | November 11-12     | Belfast, Northern Ireland | Closed                         | **[Open][165]**          | [Schedule][168] |                      |                          |                         |
+| [Meeting C++][8]               | 2019 | November 14-16     | Berlin, Germany           | Closed                         | **[Open][148]**          | [Schedule][169] |                      |                          |                         |
+| [code::dive][9]                | 2019 | November 20-21     | Wrocław, Poland           | Closed                         |                          | [Speakers][20]  |                      |                          |                         |
+| [C++ Day][166]                 | 2019 | November 30        | Parma, Italy              | **[Open][167]**                |                          |                 |                      |                          |                         |
+| [emBO++][21]                   | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |                          |                         |
+| [ACCU][2]                      | 2020 | March 24-28        | Bristol, UK               | 2019-10-04 to 2019-10-25       |                          |                 |                      |                          |                         |
+| [C++Now][4]                    | 2020 | May 3-8            | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
 
 ### Past Conferences {#conferences-past}
 
@@ -241,3 +241,5 @@
 [167] : https://www.italiancpp.org/eventi/cfs/
 [168] : https://conference.accu.org/2019_Autumn/schedule.html
 [169] : https://codedive.pl/#program-section
+[170] : http://llvm.org/devmtg/2019-10/
+[171] : https://www.eventbrite.com/e/2019-llvm-developers-meeting-bay-area-tickets-63481303287
