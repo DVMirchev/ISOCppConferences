@@ -16,6 +16,7 @@
 | [emBO++][21]                   | 2020 | March 10-15        | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |                          |                         |
 | [ACCU][2]                      | 2020 | March 24-28        | Bristol, UK               | 2019-10-04 to 2019-10-25       |                          |                 |                      |                          |                         |
 | [C++Now][4]                    | 2020 | May 3-8            | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
+| [C++Russia][172]               | 2020 | May 20-21          | Moscow, Russia            | **[Open][173]** closes March 4 |                          |                 |                      |                          |                         |
 | [C++ on Sea][25]               | 2020 | June 7-10          | Folkestone, UK            |                                |                          |                 |                      |                          |                         |
 
 ### Past Conferences {#conferences-past}
@@ -245,3 +246,5 @@
 [169] : https://codedive.pl/#program-section
 [170] : http://llvm.org/devmtg/2019-10/
 [171] : https://www.eventbrite.com/e/2019-llvm-developers-meeting-bay-area-tickets-63481303287
+[172] : https://cppconf-moscow.ru/en/
+[173] : https://cppconf-moscow.ru/en/callforpapers/
