@@ -243,7 +243,7 @@
 [166] : https://www.italiancpp.org/event/cppday19/
 [167] : https://www.italiancpp.org/eventi/cfs/
 [168] : https://conference.accu.org/2019_Autumn/schedule.html
-[169] : https://codedive.pl/#program-section
+[169] : https://www.meetingcpp.com/2019/Schedule.html
 [170] : http://llvm.org/devmtg/2019-10/
 [171] : https://www.eventbrite.com/e/2019-llvm-developers-meeting-bay-area-tickets-63481303287
 [172] : https://cppconf-moscow.ru/en/
