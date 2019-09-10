@@ -4,7 +4,6 @@
 
 |                Name             | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
 |---------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [NDC TechTown][109]             | 2019 | September 2-5      | Kongsberg, Norway         | Closed                         | **[Open][110]**          | [Schedule][111] |                      |                          |                         |
 | [CppCon][7]                     | 2019 | September 15-20    | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
 | [LLVM Developer's Meeting][170] | 2019 | October 22-23      | San Jose, CA, USA         | Closed                         | **[Open][171]**          |                 |                      |                          |                         |
 | [C++Russia][131]                | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | Closed                         | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
@@ -24,6 +23,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------|-----------------------  |--------------------|-------------------|
+| [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] |                         |                         |                    |                   |
 | [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] |                         |                         |                    |                   |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162] |                         | [Slides][163]      | [YouTube][151]    |
 | [Core C++][5]                 | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ 2019][150]    |                         | [Slides][98]       | [YouTube][143]    |
