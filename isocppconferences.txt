@@ -24,7 +24,7 @@
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos        | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|--------------------------|-----------------------  |--------------------|-------------------|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179] |                         |                    |                   |
-| [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]         |                         |                    | [YouTube][176]    |
+| [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]         |                         | [Slides][180]      | [YouTube][176]    |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162]  |                         | [Slides][163]      | [YouTube][151]    |
 | [Core C++][5]                 | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ 2019][150]     |                         | [Slides][98]       | [YouTube][143]    |
 | [C++Now][4]                   | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  | [C++Now 2019][146]       |                         | [Slides][15]       | [YouTube][120]    |
@@ -255,3 +255,4 @@
 [177] : https://www.youtube.com/channel/UChti8oyWC3oW91LpfZ2bmSQ/videos
 [178] : https://www.youtube.com/playlist?list=PLK_B2zN1sq1kRTptrb92ddk_8L13SuqiI
 [179] : https://www.youtube.com/playlist?list=PL03Lrmd9CiGfJvVkPfPA8GSzFrz3bugmY
+[180] : https://github.com/cppp-france/CPPP-19
