@@ -24,14 +24,14 @@
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos       | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------|-----------------------  |--------------------|-------------------|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] |                         |                         |                    |                   |
-| [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] |                         |                         |                    |                   |
+| [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]        |                         |                    | [YouTube][176]    |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162] |                         | [Slides][163]      | [YouTube][151]    |
 | [Core C++][5]                 | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ 2019][150]    |                         | [Slides][98]       | [YouTube][143]    |
 | [C++Now][4]                   | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  | [C++Now 2019][146]      |                         | [Slides][15]       | [YouTube][120]    |
 | [C++ Russia][3]               | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]            |                         |                    | [YouTube][127]    |
 | [ACCU][2]                     | 2019 | April 10-13        | Bristol, UK               | [Schedule][11]  | [ACCU 2019][116]        |                         | [Slides][117]      | [YouTube][122]    |
 | [EuroLLVM][1]                 | 2019 | April 8-9          | Brussels, Belgium         | [Schedule][10]  | [2019 EuroLLVM][128]    |                         | [Slides][144]      | [YouTube][126]    |
-| [emBO++][21]                  | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  |                         |                         |                    | [YouTube][125]    |
+| [emBO++][21]                  | 2019 | March 14-17        | Bochum, Germany           | [Schedule][22]  | [emBO++ 2019][178]      |                         |                    | [YouTube][125]    |
 | [Cpp Europe][23]              | 2019 | February 26        | Bucharest, Romania        | [Schedule][24]  | [Cpp Europe 2019][92]   |                         | [Slides][95]       | [YouTube][129]    |
 | [C++ on Sea][25]              | 2019 | February 4-6       | Folkestone, UK            | [Schedule][26]  | [Day 1][27] [Day 2][28] | [C++ on Sea][29]        | [Slides][47]       | [YouTube][124]    |
 |                               |      |                    |                           |                 |                         |                         |                    |                   |
@@ -251,3 +251,6 @@
 [173] : https://cppconf-moscow.ru/en/callforpapers/
 [174] : http://conference.corehard.by/
 [175] : https://docs.google.com/forms/d/e/1FAIpQLSeyDk8Hf7Q-cQ9KvDVtBR-hxZNSGgK0OvexRm-yoxQAF9bheA/viewform
+[176] : https://www.youtube.com/channel/UChti8oyWC3oW91LpfZ2bmSQ
+[177] : https://www.youtube.com/channel/UChti8oyWC3oW91LpfZ2bmSQ/videos
+[178] : https://www.youtube.com/playlist?list=PLK_B2zN1sq1kRTptrb92ddk_8L13SuqiI
