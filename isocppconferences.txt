@@ -23,6 +23,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos        | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|--------------------------|-----------------------  |--------------------|-------------------|
+| [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | [Schedule][164] | [CppCon 2019][181]       |                         | [Slides][182]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179] |                         |                    |                   |
 | [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]         |                         | [Slides][180]      | [YouTube][176]    |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162]  |                         | [Slides][163]      | [YouTube][151]    |
@@ -256,3 +257,5 @@
 [178] : https://www.youtube.com/playlist?list=PLK_B2zN1sq1kRTptrb92ddk_8L13SuqiI
 [179] : https://www.youtube.com/playlist?list=PL03Lrmd9CiGfJvVkPfPA8GSzFrz3bugmY
 [180] : https://github.com/cppp-france/CPPP-19
+[181] : https://www.youtube.com/playlist?list=PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw
+[182] : https://github.com/CppCon/CppCon2019
