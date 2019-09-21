@@ -4,7 +4,6 @@
 
 |                Name             | Year | Conference<br>Date      |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
 |---------------------------------|------|-------------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [CppCon][7]                     | 2019 | September 15-20         | Aurora, Colorado, USA     | Closed                         | **[Open][18]**           | [Schedule][164] | [Guide][19]          |                          |                         |
 | [LLVM Developer's Meeting][170] | 2019 | October 22-23           | San Jose, CA, USA         | Closed                         | **[Open][171]**          |                 |                      |                          |                         |
 | [C++Russia][131]                | 2019 | Oct. 31 - Nov. 1        | St. Petersburg, Russia    | Closed                         | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
 | [ACCU Autumn][2]                | 2019 | November 11-12          | Belfast, Northern Ireland | Closed                         | **[Open][165]**          | [Schedule][168] |                      |                          |                         |
