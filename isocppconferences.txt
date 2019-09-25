@@ -17,6 +17,7 @@
 | [C++Now][4]                     | 2020 | May 3-8                 | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
 | [C++Russia][172]                | 2020 | May 20-21               | Moscow, Russia            | **[Open][173]** closes March 4 |                          |                 |                      |                          |                         |
 | [C++ on Sea][25]                | 2020 | June 7-10               | Folkestone, UK            |                                |                          |                 |                      |                          |                         |
+| [CPPP ][113]                    | 2020 | June 22-23              | Paris, France             |                                |                          |                 |                      |                          |                         |
 | [NDC TechTown][109]             | 2020 | August 31 - September 3 | Kongsberg, Norway         |                                |                          |                 |                      |                          |                         |
 
 ### Past Conferences {#conferences-past}
