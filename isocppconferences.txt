@@ -12,7 +12,7 @@
 | [C++ CoreHard Autumn 2019][174] | 2019 | November 29-30          | Minsk, Belarus            | **[Open][175]** closes Oct. 31 | **[Open][183]**          |                 |                      |                          |                         |
 | [C++ Day][166]                  | 2019 | November 30             | Parma, Italy              | **[Open][167]** closes Nov. 30 |                          |                 |                      |                          |                         |
 |                                 |      |                         |                           |                                |                          |                 |                      |                          |                         |
-| [emBO++][21]                    | 2020 | March 10-15             | Bochum, Germany           |                                | **[Open][147]**          |                 |                      |                          |                         |
+| [emBO++][21]                    | 2020 | March 10-15             | Bochum, Germany           | **[Open][185]**                | **[Open][147]**          |                 |                      |                          |                         |
 | [ACCU][2]                       | 2020 | March 24-28             | Bristol, UK               | **[Open][184]** closes Oct. 25 |                          |                 |                      |                          |                         |
 | [C++Russia][172]                | 2020 | April 27-28             | Moscow, Russia            | **[Open][173]** closes Feb. 10 |                          |                 |                      |                          |                         |
 | [C++Now][4]                     | 2020 | May 3-8                 | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
@@ -262,3 +262,4 @@
 [182] : https://github.com/CppCon/CppCon2019
 [183] : https://bezkassira.by/corehardautumn-6916/
 [184] : https://conference.accu.org/news/2019/201910031932_accu2020cfpopens.html
+[185] : https://www.embo.io/#cfp
