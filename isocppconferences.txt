@@ -10,7 +10,7 @@
 | [Meeting C++][8]                | 2019 | November 14-16          | Berlin, Germany           | Closed                         | **[Open][148]**          | [Schedule][169] |                      |                          |                         |
 | [code::dive][9]                 | 2019 | November 20-21          | Wrocław, Poland           | Closed                         |                          | [Speakers][20]  |                      |                          |                         |
 | [C++ CoreHard Autumn 2019][174] | 2019 | November 29-30          | Minsk, Belarus            | **[Open][175]** closes Oct. 31 | **[Open][183]**          |                 |                      |                          |                         |
-| [C++ Day][166]                  | 2019 | November 30             | Parma, Italy              | **[Open][167]** closes Nov. 30 |                          |                 |                      |                          |                         |
+| [C++ Day][166]                  | 2019 | November 30             | Parma, Italy              |  Closed                        | **[Open][186]**          |                 |                      |                          |                         |
 |                                 |      |                         |                           |                                |                          |                 |                      |                          |                         |
 | [emBO++][21]                    | 2020 | March 10-15             | Bochum, Germany           | **[Open][185]**                | **[Open][147]**          |                 |                      |                          |                         |
 | [ACCU][2]                       | 2020 | March 24-28             | Bristol, UK               | **[Open][184]** closes Oct. 25 |                          |                 |                      |                          |                         |
@@ -263,3 +263,4 @@
 [183] : https://bezkassira.by/corehardautumn-6916/
 [184] : https://conference.accu.org/news/2019/201910031932_accu2020cfpopens.html
 [185] : https://www.embo.io/#cfp
+[186] : https://www.eventbrite.it/e/c-day-2019-tickets-74551021111
