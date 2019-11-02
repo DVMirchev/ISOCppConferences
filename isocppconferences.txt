@@ -4,7 +4,6 @@
 
 |                Name             | Year | Conference<br>Date      |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
 |---------------------------------|------|-------------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [C++Russia][131]                | 2019 | Oct. 31 - Nov. 1        | St. Petersburg, Russia    | Closed                         | **[Open][149]**          | [Schedule][132] | [Guide][133]         |                          |                         |
 | [ACCU Autumn][2]                | 2019 | November 11-12          | Belfast, Northern Ireland | Closed                         | **[Open][165]**          | [Schedule][168] |                      |                          |                         |
 | [Meeting C++][8]                | 2019 | November 14-16          | Berlin, Germany           | Closed                         | **[Open][148]**          | [Schedule][169] |                      |                          |                         |
 | [code::dive][9]                 | 2019 | November 20-21          | Wrocław, Poland           | Closed                         |  Closed                  | [Speakers][20]  |                      |                          |                         |
@@ -26,6 +25,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos        | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|--------------------------|-----------------------  |--------------------|-------------------|
+| [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Schedule][132] |                          |                         |                    |                   |
 | [LLVM Dev. Meeting][170]      | 2019 | October 22-23      | San Jose, CA, USA         | [Schedule][170] |                          |                         |                    |                   |
 | [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | [Schedule][164] | [CppCon 2019][181]       |                         | [Slides][182]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179] |                         |                    |                   |
@@ -270,4 +270,3 @@
 [187] : https://cpponsea.uk/callforspeakers/
 [188] : https://www.chaosgroup.com/total-chaos
 [189] : https://www.chaosgroup.com/total-chaos/become-speaker
-
