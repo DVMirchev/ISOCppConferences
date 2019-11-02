@@ -15,7 +15,7 @@
 | [ACCU][2]                       | 2020 | March 24-28             | Bristol, UK               | Closed                         |                          |                 |                      |                          |                         |
 | [C++Russia][172]                | 2020 | April 27-28             | Moscow, Russia            | **[Open][173]** closes Feb. 10 |                          |                 |                      |                          |                         |
 | [C++Now][4]                     | 2020 | May 3-8                 | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
-| [Total Chaos][188]              | 2020 | May 29-30               | Sofia, Bulgaria           | **[Open][189]** closes Nov. 1  |                          |                 |                      |                          |                         |
+| [Total Chaos][188]              | 2020 | May 29-30               | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
 | [C++ on Sea][25]                | 2020 | June 7-10               | Folkestone, UK            | **[Open][187]** closes Nov. 30 |                          |                 |                      |                          |                         |
 | [CPPP ][113]                    | 2020 | June 22-23              | Paris, France             |                                |                          |                 |                      |                          |                         |
 | [NDC TechTown][109]             | 2020 | August 31 - September 3 | Kongsberg, Norway         |                                |                          |                 |                      |                          |                         |
@@ -270,3 +270,4 @@
 [187] : https://cpponsea.uk/callforspeakers/
 [188] : https://www.chaosgroup.com/total-chaos
 [189] : https://www.chaosgroup.com/total-chaos/become-speaker
+
