@@ -24,8 +24,8 @@
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
 | [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | [Schedule][9]   |  [code::dive 2019][175]       |                         |                    | [YouTube][108]    |
-| [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | [Schedule][169] |                               |                         |                    |                   |
-| [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | [Schedule][168] | [ACCU Autumn 2019][196]         |                         |                    | [YouTube][122]    |
+| [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | [Schedule][169] |                               |                         |                    | [YouTube][121]    |
+| [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | [Schedule][168] | [ACCU Autumn 2019][196]       |                         |                    | [YouTube][122]    |
 | [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Schedule][132] | [C++Russia 2019][194]         |                         |                    | [YouTube][195]    |
 | [LLVM Dev. Meeting][170]      | 2019 | October 22-23      | San Jose, CA, USA         | [Schedule][170] | [LLVM Dev. Meeting 2019][191] |                         | [Slides][192]      | [YouTube][193]    |
 | [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | [Schedule][164] | [CppCon 2019][181]            |                         | [Slides][182]      | [YouTube][118] [Channel&nbsp;9][119]|
