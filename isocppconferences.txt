@@ -4,8 +4,7 @@
 
 |                Name             | Year | Conference<br>Date      |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
 |---------------------------------|------|-------------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [code::dive][9]                 | 2019 | November 20-21          | Wrocław, Poland           | Closed                         |  Closed                  | [Speakers][20]  |                      |                          |                         |
-| [C++ CoreHard Autumn 2019][174] | 2019 | November 29-30          | Minsk, Belarus            | **[Open][175]** closes Oct. 31 | **[Open][183]**          |                 |                      |                          |                         |
+| [C++ CoreHard Autumn 2019][174] | 2019 | November 29-30          | Minsk, Belarus            | Closed                         | **[Open][183]**          |                 |                      |                          |                         |
 | [C++ Day][166]                  | 2019 | November 30             | Parma, Italy              | Closed                         | **[Open][186]**          |                 |                      |                          |                         |
 |                                 |      |                         |                           |                                |                          |                 |                      |                          |                         |
 | [emBO++][21]                    | 2020 | March 10-15             | Bochum, Germany           | **[Open][185]**                | **[Open][147]**          |                 |                      |                          |                         |
@@ -24,6 +23,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos        | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|--------------------------|-----------------------  |--------------------|-------------------|
+| [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | [Schedule][9]   |  [code::dive 2019][175]  |                         |                    | [YouTube][108]    |
 | [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | [Schedule][169] |                          |                         |                    |                   |
 | [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | [Schedule][168] |                          |                         |                    |                   |
 | [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Schedule][132] |                          |                         |                    |                   |
@@ -256,7 +256,7 @@
 [172] : https://cppconf-moscow.ru/en/
 [173] : https://cppconf-moscow.ru/en/callforpapers/
 [174] : http://conference.corehard.by/
-[175] : https://docs.google.com/forms/d/e/1FAIpQLSeyDk8Hf7Q-cQ9KvDVtBR-hxZNSGgK0OvexRm-yoxQAF9bheA/viewform
+[175] : https://www.youtube.com/playlist?list=PLK3T2dt6T1feGeZUcGbIcF9J3iIjuhESq
 [176] : https://www.youtube.com/channel/UChti8oyWC3oW91LpfZ2bmSQ
 [177] : https://www.youtube.com/channel/UChti8oyWC3oW91LpfZ2bmSQ/videos
 [178] : https://www.youtube.com/playlist?list=PLK_B2zN1sq1kRTptrb92ddk_8L13SuqiI
