@@ -15,7 +15,7 @@
 | [C++Now][4]                     | 2020 | May 3-8                 | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
 | [Total Chaos][188]              | 2020 | May 29-30               | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
 | [C++ on Sea][25]                | 2020 | June 7-10               | Folkestone, UK            | **[Open][187]** closes Nov. 30 |                          |                 |                      |                          |                         |
-| [CPPP ][113]                    | 2020 | June 22-23              | Paris, France             |                                |                          |                 |                      |                          |                         |
+| [CPPP ][113]                    | 2020 | June 22-23              | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                 |                      |                          |                         |
 | [NDC TechTown][109]             | 2020 | August 31 - September 3 | Kongsberg, Norway         |                                |                          |                 |                      |                          |                         |
 | [CppCon][7]                     | 2020 | September 13-18         | Aurora, Colorado, USA     |                                |                          |                 |                      |                          |                         |
 | [Meeting C++][8]                | 2020 | November 12-14          | Berlin, Germany           |                                |                          |                 |                      |                          |                         |
@@ -283,3 +283,4 @@
 [197] : https://forms.gle/FZkgCtVtsxc6RS5H7
 [198] : https://www.eventbrite.de/e/embo-2020-embedded-c-c-conference-in-germany-tickets-58430897387?aff=erelexpmlt
 [199] : https://conference.accu.org/coc_code_of_conduct.html
+[200] : https://cppp.fr/cfp/
