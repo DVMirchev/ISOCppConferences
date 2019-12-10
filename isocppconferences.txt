@@ -10,6 +10,7 @@
 | [using std::cpp][190]         | 2020 | April 16           | Madrid, Spain             | **[Open][201]**                |                          |                 |                      |        **Yes**           |                         |
 | [C++Russia][172]              | 2020 | April 27-28        | Moscow, Russia            | **[Open][173]** closes Feb. 10 |                          |                 |                      |        **Yes**           |          **Yes**        |
 | [C++Now][4]                   | 2020 | May 3-8            | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
+| [Qt World Summit][205]        | 2020 | May 3-8            | Palm Springs, CA, USA     | **[Open][206]** closes Jan. 20 |                          |                 |                      |                          |                         |
 | [Total Chaos][188]            | 2020 | May 29-30          | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
 | [C++ on Sea][25]              | 2020 | June 7-10          | Folkestone, UK            | **[Open][187]** closes Nov. 30 |                          |                 |                      |                          |                         |
 | [CPPP ][113]                  | 2020 | June 22-23         | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                 |                      |        **Yes**           |          **Yes**        |
@@ -288,3 +289,5 @@
 [202] : https://github.com/italiancpp/cppday19/
 [203] : https://www.slideshare.net/corehard_by/presentations
 [204] : https://conference.corehard.by/2019-spring
+[205] : https://www.qt.io/qtws20
+[206] : https://www.qt.io/blog/qt-world-summit-2020-announced-save-the-date
