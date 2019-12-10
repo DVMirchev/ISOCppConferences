@@ -2,29 +2,28 @@
 
 ### Upcoming Conferences {#conferences-upcoming}
 
-|                Name             | Year | Conference<br>Date      |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
-|---------------------------------|------|-------------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [C++ CoreHard Autumn 2019][174] | 2019 | November 29-30          | Minsk, Belarus            | Closed                         | **[Open][183]**          |                 |                      |                          |                         |
-| [C++ Day][166]                  | 2019 | November 30             | Parma, Italy              | Closed                         | **[Open][186]**          |                 |                      |                          |                         |
-|                                 |      |                         |                           |                                |                          |                 |                      |                          |                         |
-| [emBO++][21]                    | 2020 | March 10-15             | Bochum, Germany           | **[Open][185]**                | **[Open][198]**          |                 |                      |                          |                         |
-| [ACCU][2]                       | 2020 | March 24-28             | Bristol, UK               | Closed                         |                          |                 |   **[COC][199]**     |      Two nights          |          **Yes**        |
-| [C++ CoreHard Spring 2020][174] | 2020 | April 10-11             | Minsk, Belarus            | **[Open][197]**                |                          |                 |                      |        **Yes**           |          **Yes**        |
-| [using std::cpp][190]           | 2020 | April 16                | Madrid, Spain             | **[Open][201]**                           |                          |                 |                      |  **Yes**                        |                         |
-| [C++Russia][172]                | 2020 | April 27-28             | Moscow, Russia            | **[Open][173]** closes Feb. 10 |                          |                 |                      |        **Yes**           |          **Yes**        |
-| [C++Now][4]                     | 2020 | May 3-8                 | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
-| [Total Chaos][188]              | 2020 | May 29-30               | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
-| [C++ on Sea][25]                | 2020 | June 7-10               | Folkestone, UK            | **[Open][187]** closes Nov. 30 |                          |                 |                      |                          |                         |
-| [CPPP ][113]                    | 2020 | June 22-23              | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                 |                      |        **Yes**           |          **Yes**        |
-| [NDC TechTown][109]             | 2020 | August 31 - September 3 | Kongsberg, Norway         |                                |                          |                 |                      |                          |                         |
-| [CppCon][7]                     | 2020 | September 13-18         | Aurora, Colorado, USA     |                                |                          |                 |                      |                          |                         |
-| [Meeting C++][8]                | 2020 | November 12-14          | Berlin, Germany           |                                |                          |                 |                      |                          |                         |
+|                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        | Program<br>committee | Speaker<br>Accommodation | Travel<br>Reimbursement |
+|-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
+| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | **[Open][185]**                | **[Open][198]**          |                 |                      |                          |                         |
+| [ACCU][2]                     | 2020 | March 24-28        | Bristol, UK               | Closed                         |                          |                 |   **[COC][199]**     |      Two nights          |          **Yes**        |
+| [C++ CoreHard Spring][174]    | 2020 | April 10-11        | Minsk, Belarus            | **[Open][197]**                |                          |                 |                      |        **Yes**           |          **Yes**        |
+| [using std::cpp][190]         | 2020 | April 16           | Madrid, Spain             | **[Open][201]**                |                          |                 |                      |        **Yes**           |                         |
+| [C++Russia][172]              | 2020 | April 27-28        | Moscow, Russia            | **[Open][173]** closes Feb. 10 |                          |                 |                      |        **Yes**           |          **Yes**        |
+| [C++Now][4]                   | 2020 | May 3-8            | Aspen, Colorado, USA      |                                |                          |                 |                      |                          |                         |
+| [Total Chaos][188]            | 2020 | May 29-30          | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
+| [C++ on Sea][25]              | 2020 | June 7-10          | Folkestone, UK            | **[Open][187]** closes Nov. 30 |                          |                 |                      |                          |                         |
+| [CPPP ][113]                  | 2020 | June 22-23         | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                 |                      |        **Yes**           |          **Yes**        |
+| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         |                                |                          |                 |                      |                          |                         |
+| [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                 |                      |                          |                         |
+| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                                |                          |                 |                      |                          |                         |
 
 
 ### Past Conferences {#conferences-past}
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [C++ Day][166]                | 2019 | November 30        | Parma, Italy              |                 |                               |                         | [Slides][202]      |                   |
+| [C++ CoreHard Autumn][174]    | 2019 | November 29-30     | Minsk, Belarus            |                 |                               |                         | [Slides][203]      |                   |
 | [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | [Schedule][9]   |  [code::dive 2019][175]       |                         |                    | [YouTube][108]    |
 | [Meeting C++][8]              | 2019 | November 14-16     | Berlin, Germany           | [Schedule][169] |                               |                         |                    | [YouTube][121]    |
 | [ACCU Autumn][2]              | 2019 | November 11-12     | Belfast, Northern Ireland | [Schedule][168] | [ACCU Autumn 2019][196]       |                         |                    | [YouTube][122]    |
@@ -285,3 +284,5 @@
 [199] : https://conference.accu.org/coc_code_of_conduct.html
 [200] : https://cppp.fr/cfp/
 [201] : https://eventos.uc3m.es/40350/section/22663/using-std_cpp-2020.html
+[202] : https://github.com/italiancpp/cppday19/
+[203] : https://www.slideshare.net/corehard_by/presentations
