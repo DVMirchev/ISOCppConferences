@@ -33,6 +33,7 @@
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179]      |                         |                    |                   |
 | [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]              |                         | [Slides][180]      | [YouTube][176]    |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162]       |                         | [Slides][163]      | [YouTube][151]    |
+| [C++ CoreHard Spring][204]    | 2019 | May 24-25          | Minsk, Belarus            |                 |                               |                         | [Slides][203]      |                   |
 | [Core C++][5]                 | 2019 | May 14-17          | Tel-Aviv, Israel          | [Schedule][16]  | [Core C++ 2019][150]          |                         | [Slides][98]       | [YouTube][143]    |
 | [C++Now][4]                   | 2019 | May 5-10           | Aspen, Colorado, USA      | [Schedule][14]  | [C++Now 2019][146]            |                         | [Slides][15]       | [YouTube][120]    |
 | [C++ Russia][3]               | 2019 | April 19-20        | Moscow, Russia            | [Schedule][12]  | [Day 1][107]                  |                         |                    | [YouTube][127]    |
@@ -286,3 +287,4 @@
 [201] : https://eventos.uc3m.es/40350/section/22663/using-std_cpp-2020.html
 [202] : https://github.com/italiancpp/cppday19/
 [203] : https://www.slideshare.net/corehard_by/presentations
+[204] : https://conference.corehard.by/2019-spring
