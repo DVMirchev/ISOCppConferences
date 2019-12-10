@@ -52,7 +52,7 @@
 | [C++Now][41]                  | 2018 | May 7-11           | Aspen, Colorado, USA      | [Schedule][42]  | [C++Now 2018][43]             | [C++Now 2018][44]       | [Slides][45]       | [YouTube][120]    |
 | [ACCU][96]                    | 2018 | April 11-14        | Bristol, UK               | [Schedule][97]  | [ACCU 2018][99]               |                         | [In Schedule][97]  | [YouTube][122]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
-| [pacific++][33]               | 2017 | October 26-27      | Christchurch, New Zealand |                 | [pacific++ 2017][93]          |                         |                    | [YouTube][123]    |
+| [pacific++][33]               | 2017 | October 26-27      | Christchurch, New Zealand |                 | [pacific++ 2017][93]          |                         | [Slides][207]      | [YouTube][123]    |
 | [Meeting C++][82]             | 2017 | November 9-11      | Berlin, Germany           | [Schedule][83]  | [Meeting C++ 2017][84]        |                         | [Slides (zip)][85] | [YouTube][121]    |
 | [code::dive][9]               | 2017 | November 14-15     | Wrocław, Poland           | [Schedule][139] | [code::dive 2017][140]        |                         | [Slides][139]      | [YouTube][108]    |
 | [CppCon][7]                   | 2017 | September 25-29    | Bellevue, Washington, USA | [Schedule][48]  | [CppCon 2017][49]             | [CppCon 2017][50]       | [Slides][51]       | [YouTube][118] [Channel&nbsp;9][119]|
@@ -291,3 +291,4 @@
 [204] : https://conference.corehard.by/2019-spring
 [205] : https://www.qt.io/qtws20
 [206] : https://www.qt.io/blog/qt-world-summit-2020-announced-save-the-date
+[207] : https://github.com/pacificplusplus/conference/tree/master/slides-2017
