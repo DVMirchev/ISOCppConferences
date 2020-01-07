@@ -7,10 +7,11 @@
 | [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | **[Open][185]**                | **[Open][198]**          |                 |                      |        **Yes**           |                         |
 | [ACCU][2]                     | 2020 | March 24-28        | Bristol, UK               | Closed                         | **[Open][208]**          |                 |   **[COC][199]**     |      Two nights          |          **Yes**        |
 | [C++ CoreHard Spring][174]    | 2020 | April 10-11        | Minsk, Belarus            | **[Open][197]**                |                          |                 |                      |        **Yes**           |          **Yes**        |
-| [using std::cpp][190]         | 2020 | April 16           | Madrid, Spain             | **[Open][201]**                |                          |                 |                      |        **Yes**           | **Yes**                       |
+| [using std::cpp][190]         | 2020 | April 16           | Madrid, Spain             | **[Open][201]**                |                          |                 |                      |        **Yes**           |          **Yes**        |
 | [C++Russia][172]              | 2020 | April 27-28        | Moscow, Russia            | **[Open][173]** closes Feb. 10 |                          |                 |                      |        **Yes**           |          **Yes**        |
 | [C++Now][4]                   | 2020 | May 3-8            | Aspen, Colorado, USA      | **[Open][209]** closes Jan. 22 |                          |                 |                      |                          |                         |
 | [Qt World Summit][205]        | 2020 | May 3-8            | Palm Springs, CA, USA     | **[Open][206]** closes Jan. 20 |                          |                 |                      |                          |                         |
+| [Core C++][5]                 | 2020 | May 25-27          | Tel-Aviv, Israel          | **[Open][210]**                |                          |                 |                      |                          |
 | [Total Chaos][188]            | 2020 | May 29-30          | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
 | [C++ on Sea][25]              | 2020 | June 7-10          | Folkestone, UK            | Closed                         |                          |                 |                      |                          |                         |
 | [CPPP ][113]                  | 2020 | June 22-23         | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                 |                      |        **Yes**           |          **Yes**        |
@@ -294,3 +295,4 @@
 [207] : https://github.com/pacificplusplus/conference/tree/master/slides-2017
 [208] : https://web.cvent.com/event/b02cb201-20c2-4ee4-8d8d-09b92ac2a80f/summary
 [209] : http://cppnow.org/announcements/2019/12/2020-CfS/
+[210] : https://cfs.corecpp.org/
