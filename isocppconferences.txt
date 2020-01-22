@@ -2,22 +2,22 @@
 
 ### Upcoming Conferences {#conferences-upcoming}
 
-|                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule        |  Code of<br>Conduct  | Speaker<br>Accommodation | Travel<br>Reimbursement |
-|-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|-----------------|----------------------|--------------------------|-------------------------|
-| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | **[Open][185]**                | **[Open][198]**          |                 |                      |        **Yes**           |                         |
-| [ACCU][2]                     | 2020 | March 24-28        | Bristol, UK               | Closed                         | **[Open][208]**          |                 |   **[COC][199]**     |      Two nights          |          **Yes**        |
-| [C++ CoreHard Spring][174]    | 2020 | April 10-11        | Minsk, Belarus            | **[Open][197]** closes Mar. 15 | **[Open][212]**          |                 |                      |        **Yes**           |          **Yes**        |
-| [using std::cpp][190]         | 2020 | April 16           | Madrid, Spain             | **[Open][201]**                |                          |                 |                      |        **Yes**           |          **Yes**        |
-| [C++Russia][172]              | 2020 | April 27-28        | Moscow, Russia            | **[Open][173]** closes Feb. 10 | **[Open][213]**          |                 |                      |        **Yes**           |          **Yes**        |
-| [C++Now][4]                   | 2020 | May 3-8            | Aspen, Colorado, USA      | **[Open][209]** closes Jan. 22 |                          |                 |                      |                          |                         |
-| [Qt World Summit][205]        | 2020 | May 3-8            | Palm Springs, CA, USA     | Closed                         | **[Open][214]**          |                 |                      |                          |                         |
-| [Core C++][5]                 | 2020 | May 25-27          | Tel-Aviv, Israel          | **[Open][210]** closes Feb. 15 |                          |                 |   **[COC][211]**     |        **Yes**           |          **Yes**        |
-| [Total Chaos][188]            | 2020 | May 29-30          | Sofia, Bulgaria           | Closed                         |                          |                 |                      |                          |                         |
-| [C++ on Sea][25]              | 2020 | June 7-10          | Folkestone, UK            | Closed                         |                          |                 |                      |                          |                         |
-| [CPPP ][113]                  | 2020 | June 22-23         | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                 |                      |        **Yes**           |          **Yes**        |
-| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         |                                |                          |                 |                      |                          |                         |
-| [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                 |                      |                          |                         |
-| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                                |                          |                 |                      |                          |                         |
+|                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Accommodation | Travel<br>Reimbursement |
+|-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|--------------------------|-------------------------|
+| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | **[Open][185]**                | **[Open][198]**          |                      |                      |        **Yes**           |                         |
+| [ACCU][2]                     | 2020 | March 24-28        | Bristol, UK               | Closed                         | **[Open][208]**          |                      |   **[COC][199]**     |      Two nights          |          **Yes**        |
+| [C++ CoreHard Spring][174]    | 2020 | April 10-11        | Minsk, Belarus            | **[Open][197]** closes Mar. 15 | **[Open][212]**          | [C++ Code Hard][215] |                      |        **Yes**           |          **Yes**        |
+| [using std::cpp][190]         | 2020 | April 16           | Madrid, Spain             | **[Open][201]**                |                          |                      |                      |        **Yes**           |          **Yes**        |
+| [C++Russia][172]              | 2020 | April 27-28        | Moscow, Russia            | **[Open][173]** closes Feb. 10 | **[Open][213]**          | [C++ Russia][216]    |                      |        **Yes**           |          **Yes**        |
+| [C++Now][4]                   | 2020 | May 3-8            | Aspen, Colorado, USA      | **[Open][209]** closes Jan. 22 |                          |                      |                      |                          |                         |
+| [Qt World Summit][205]        | 2020 | May 3-8            | Palm Springs, CA, USA     | Closed                         | **[Open][214]**          |                      |                      |                          |                         |
+| [Core C++][5]                 | 2020 | May 25-27          | Tel-Aviv, Israel          | **[Open][210]** closes Feb. 15 |                          |                      |   **[COC][211]**     |        **Yes**           |          **Yes**        |
+| [Total Chaos][188]            | 2020 | May 29-30          | Sofia, Bulgaria           | Closed                         |                          | [Total Chaos][217]   |                      |                          |                         |
+| [C++ on Sea][25]              | 2020 | June 7-10          | Folkestone, UK            | Closed                         |                          |                      |                      |                          |                         |
+| [CPPP ][113]                  | 2020 | June 22-23         | Paris, France             | **[Open][200]** closes Feb. 29 |                          |                      |                      |        **Yes**           |          **Yes**        |
+| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         |                                |                          |                      |                      |                          |                         |
+| [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |                      |                          |                         |
+| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                                |                          |                      |                      |                          |                         |
 
 
 ### Past Conferences {#conferences-past}
@@ -300,3 +300,6 @@
 [212] : https://bezkassira.by/corehardspring2020-8060/
 [213] : https://cppconf-moscow.ru/en/registration/
 [214] : https://www.eventbrite.com/e/qt-world-summit-2020-palm-springs-registration-90024324177
+[215] : https://conference.corehard.by/#Day_2_Stream_A
+[216] : https://cppconf-moscow.ru/en/2020/msk/schedule/
+[217] : https://www.chaosgroup.com/total-chaos#schedule
