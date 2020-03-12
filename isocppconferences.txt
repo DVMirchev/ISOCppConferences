@@ -18,7 +18,8 @@
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | **[Open][222]** closes Apr. 23 | **[Open][223]**          |                      |                      |                          |       [prospectus][233]       |
 | [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |                      |     **yes** / **yes**    |[sponsor][234] [exhibitor][235]|
 | [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                                |                          |                      |                      |                          |                               |
-| [using std::cpp][190]         | 2020 | <s>April 16</s> October | Madrid, Spain             | Closed                         |                          |                      |                      |     **yes** / **yes**    |                               |
+| [code::dive][9 ]              | 2020 | November 18        | Wrocław, Poland           | **[Open][238]**                |                          |                      |                      |                          |                               |
+| [using std::cpp][190]         | 2020 | <s>April 16</s> October | Madrid, Spain        | Closed                         |                          |                      |                      |     **yes** / **yes**    |                               |
 
 
 ### Past Conferences {#conferences-past}
@@ -324,3 +325,4 @@
 [235] : https://cppcon.org/exhibiting/
 [236] : https://www.youtube.com/c/corehard
 [237] : mailto:accu@archer-yates.co.uk
+[238] : https://codedive.pl/register/cfp
