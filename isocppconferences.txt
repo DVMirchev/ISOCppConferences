@@ -4,7 +4,6 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
-| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | Closed                         |                          | [emBO++][239]        |                      |        **yes** /            |          [form][224]          |
 | [ACCU][2]                     | 2020 | **CANCELLED**      | Bristol, UK               | Closed                         |                          |                      |   **[COC][199]**     |   two nights / **yes**      | [mail][237]                   |
 | [C++ CoreHard Spring][174]    | 2020 | **POSTPONED**      | Minsk, Belarus            | **[Open][197]** closes Mar. 15 | **[Open][212]**          | [C++ Code Hard][215] |                      |     **yes** / **yes**       |          [mail][225]          |
 | [C++Russia][172]              | 2020 | **POSTPONED**      | Moscow, Russia            | Closed                         | **[Open][213]**          | [C++ Russia][216]    |                      |     **yes** / **yes**       |          [page][226]          |
@@ -27,6 +26,8 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | [Schedule][239] |  [emBO++ 2020][251]           |                         |                    | [YouTube][125]    |
+|                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [C++ Day][166]                | 2019 | November 30        | Parma, Italy              |                 |                               |                         | [Slides][202]      |                   |
 | [C++ CoreHard Autumn][174]    | 2019 | November 29-30     | Minsk, Belarus            |                 |                               |                         | [Slides][203]      | [YouTube][236]    |
 | [code::dive][9]               | 2019 | November 20-21     | Wrocław, Poland           | [Schedule][9]   | [code::dive 2019][175]        |                         |                    | [YouTube][108]    |
@@ -331,3 +332,4 @@
 [240] : https://corecpp.org/schedule/
 [241] : http://cppnow.org/schedule/
 [250] : https://adcpp.de/
+[251] : https://www.youtube.com/playlist?list=PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ
