@@ -5,7 +5,6 @@
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
 | [Core C++][5]                 | 2020 | **POSTPONED**      | Tel-Aviv, Israel          | Closed                         |                          | [Core C++][240]      |   **[COC][211]**     |     **yes** / **yes**       |       [prospectus][228]       |
-| [C++ on Sea][25]              | 2020 | June 7-10          | Folkestone, UK            | Closed                         |                          |                      |                      |                             |       [prospectus][230]       |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Rome, Italy               | Closed                         |                          |                      |   **[COC][220]**     |                             |          [form][231]          |
 | [CPPP ][113]                  | 2020 | June 22-23         | Paris, France             | Closed                         |                          |                      |                      |     **yes** / **yes**       |       [prospectus][232]       |
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | **[Open][222]** closes Apr. 23 | **[Open][223]**          |                      |                      |                             |       [prospectus][233]       |
@@ -25,7 +24,8 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
-| [C++Russia][172]              | 2020 | June 29-July 2     | **Online**                | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
+| [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] |                               |                         |                    | [YouTube][124]    |
+| [C++Russia][172]              | 2020 | June 29-July 2     | Online                    | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
 | [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | [Schedule][239] |  [emBO++ 2020][251]           |                         |                    | [YouTube][125]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [C++ Day][166]                | 2019 | November 30        | Parma, Italy              |                 |                               |                         | [Slides][202]      |                   |
@@ -333,3 +333,4 @@
 [241] : http://cppnow.org/schedule/
 [250] : https://adcpp.de/
 [251] : https://www.youtube.com/playlist?list=PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ
+[252] : https://cpponsea.uk/2020/schedule/
