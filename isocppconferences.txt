@@ -6,6 +6,7 @@
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
 | [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |                      |     **yes** / **yes**       |[sponsor][234] [exhibitor][235]|
 | [using std::cpp][190]         | 2020 | <s>April 16</s> October | Madrid, Spain        | Closed                         |                          |                      |                      |     **yes** / **yes**       |                               |
+| [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Virtual                   | Closed                         |                          | [LLVM Dev. Meeting 2019][256] |             |            N/A              |                               |
 | [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       |                                |                          |                      |                      |                             |                               |
 | [Qt World Summit][205]        | 2020 | October 20-22      | Palm Springs, CA, USA     | Closed                         | **[Open][214]**          |                      |                      |                             |                               |
 | [C++ CoreHard Spring][174]    | 2020 | October 30-31      | Minsk, Belarus            | **[Open][197]**                | **[Open][212]**          | [C++ Code Hard][215] |                      |     **yes** / **yes**       |          [mail][225]          |
@@ -334,3 +335,5 @@
 [252] : https://cpponsea.uk/2020/schedule/
 [253] : https://www.italiancpp.org/event/itcppcon20/
 [254] : https://www.youtube.com/c/NDCConferences
+[255] : https://llvm.org/devmtg/2020-09/
+[256] : https://llvm.org/devmtg/2020-09/schedule/
