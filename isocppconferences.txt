@@ -4,8 +4,6 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
-| [Core C++][5]                 | 2020 | **POSTPONED**      | Tel-Aviv, Israel          | Closed                         |                          | [Core C++][240]      |   **[COC][211]**     |     **yes** / **yes**       |       [prospectus][228]       |
-| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | **[Open][222]** closes Apr. 23 | **[Open][223]**          |                      |                      |                             |       [prospectus][233]       |
 | [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |                      |     **yes** / **yes**       |[sponsor][234] [exhibitor][235]|
 | [using std::cpp][190]         | 2020 | <s>April 16</s> October | Madrid, Spain        | Closed                         |                          |                      |                      |     **yes** / **yes**       |                               |
 | [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       |                                |                          |                      |                      |                             |                               |
@@ -22,6 +20,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         |                 |                               |                         |                    | [YouTube][254]    |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] |                               |                         |                    | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] |                               |                         |                    | [YouTube][124]    |
 | [C++Russia][172]              | 2020 | June 29-July 2     | Online                    | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
@@ -35,7 +34,7 @@
 | [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Schedule][132] | [C++Russia 2019][194]         |                         |                    | [YouTube][195]    |
 | [LLVM Dev. Meeting][170]      | 2019 | October 22-23      | San Jose, CA, USA         | [Schedule][170] | [LLVM Dev. Meeting 2019][191] |                         | [Slides][192]      | [YouTube][193]    |
 | [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | [Schedule][164] | [CppCon 2019][181]            |                         | [Slides][182]      | [YouTube][118] [Channel&nbsp;9][119]|
-| [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179]      |                         |                    |                   |
+| [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179]      |                         |                    | [YouTube][254]    |
 | [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]              |                         | [Slides][180]      | [YouTube][176]    |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162]       |                         | [Slides][163]      | [YouTube][151]    |
 | [C++ CoreHard Spring][204]    | 2019 | May 24-25          | Minsk, Belarus            |                 |                               |                         | [Slides][203]      |                   |
@@ -334,3 +333,4 @@
 [251] : https://www.youtube.com/playlist?list=PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ
 [252] : https://cpponsea.uk/2020/schedule/
 [253] : https://www.italiancpp.org/event/itcppcon20/
+[254] : https://www.youtube.com/c/NDCConferences
