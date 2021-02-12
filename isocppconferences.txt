@@ -15,7 +15,7 @@
 | [Pure C++ 2020][259]          | 2020 | December 26        | Shenzhen, China           |                 | [Free by email][260]          |  [Pure C++ 2020][259]   |                    |                   |
 | [Cpp-Summit 2020][257]        | 2020 | December 4-5       | Shenzhen, China           |                 |                               |                         |                    |                   |
 | [code::dive][9]               | 2020 | November 18        | Wrocław, Poland           |                 | [code::dive 2020][261]        |                         |                    | [YouTube][108]    |
-| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                 |                               |                         |                    |                   |
+| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           | [Schedule][268] | [Meeting C++][269]            |                         | [Slides][271]      | [YouTube][121]    |
 | [C++ CoreHard Spring][174]    | 2020 | October 30-31      | Minsk, Belarus            |                 |                               |                         |                    |                   |
 | [Qt World Summit][205]        | 2020 | October 20-22      | Palm Springs, CA, USA     |                 |                               |                         |                    |                   |
 | [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       |                 |                               |                         |                    |                   |
@@ -351,3 +351,8 @@
 [265] : https://cppnow.org/announcements/2021/01/2021-registration-is-open/
 [266] : http://bj2017.cpp-summit.org/en
 [267] : http://cpp-summit.org/shanghai201911/en
+[268] : https://meetingcpp.com/2020/Schedule.html
+[269] : https://www.youtube.com/playlist?list=PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW
+[270] :
+[271] : https://meetingcpp.com/mcpp/slides/?year=2020
+[272] :
