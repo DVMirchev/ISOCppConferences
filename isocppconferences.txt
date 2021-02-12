@@ -8,6 +8,7 @@
 | [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      | [Open][264]                    | [Open][265]              |                      |                      |      **no** / **no**        |          [page][227]          |
 | [ADC++][250]                  | 2021 | May 17-19          | Regensburg, Germany       |                                | [Open][273]              | [ADC++][272]         |                      |                             |                               |
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
+| [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
 
 ### Past Conferences {#conferences-past}
@@ -23,7 +24,7 @@
 | [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       | [Schedule][274] |                               |                         |                    |                   |
 | [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Online                    |                 | [LLVM Dev. Meeting][275]      |                         | [Slides][276]      |                   |
 | [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [CppCon][279]                 | [CppCon][278]           | [Slides][277]      | [YouTube][118] [Channel&nbsp;9][119]|
-| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         |                 |                               |                         |                    |                   |
+| [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | [Schedule][284] | [NDC TechTown][283]           |                         |                    |                   |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] |                               |                         |                    | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] |                               |                         |                    | [YouTube][124]    |
 | [C++Russia][172]              | 2020 | June 29-July 2     | Online                    | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
@@ -203,7 +204,7 @@
 [108] : https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g
 [109] : https://ndctechtown.com/
 [110] : https://ndctechtown.com/page/tickets/
-[111] : https://ndctechtown.com/agenda/
+[111] : https://ndctechtown.com/page/2019-agenda
 [112] : https://codedive.pl/register/cfp
 [113] : http://cppp.fr/
 [114] : http://cppp.fr/#c66
@@ -367,3 +368,7 @@
 [280] : mailto:sponsorship@cppcon.org
 [281] : https://cppcon.org/program2020/
 [282] : https://cppcon.org/codeofconduct/
+[283] : https://www.youtube.com/playlist?list=PL03Lrmd9CiGd85AWKC4vpmt8mjyp_javU
+[284] : https://ndctechtown.com/agenda/
+[285] : https://ndctechtown.com/page/code-of-conduct
+[286] : https://ndctechtown.com/page/partnership/
