@@ -4,15 +4,6 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
-| [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |                      |     **yes** / **yes**       |[sponsor][234] [exhibitor][235]|
-| [using std::cpp][190]         | 2020 | <s>April 16</s> October | Madrid, Spain        | Closed                         |                          |                      |                      |     **yes** / **yes**       |                               |
-| [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Virtual                   | Closed                         |                          | [LLVM Dev. Meeting 2019][256] |             |            N/A              |                               |
-| [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       |                                |                          |                      |                      |                             |                               |
-| [Qt World Summit][205]        | 2020 | October 20-22      | Palm Springs, CA, USA     | Closed                         | **[Open][214]**          |                      |                      |                             |                               |
-| [C++ CoreHard Spring][174]    | 2020 | October 30-31      | Minsk, Belarus            | **[Open][197]**                | **[Open][212]**          | [C++ Code Hard][215] |                      |     **yes** / **yes**       |          [mail][225]          |
-| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                                |                          |                      |                      |                             |                               |
-| [code::dive][9]               | 2020 | November 18        | Wrocław, Poland           | **[Open][238]**                |                          |                      |                      |                             |                               |
-|                               |      |                    |                           |                                |                          |                      |                      |                             |                               |
 | [ACCU][2]                     | 2021 | March 10-13        | Bristol, UK               |                                |                          |                      |   **[COC][199]**     |   two nights / **yes**      | [mail][237]                   |
 | [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      |                                |                          |                      |                      |      **no** / **no**        |          [page][227]          |
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
@@ -21,6 +12,16 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [Pure C++ 2020][259]        | 2020 | December 26       | Shenzhen, China           |                 | [Free by email][260]                         |  [Pure C++ 2020][259]      |                      |                             |                               |
+| [Cpp-Summit 2020][257]        | 2020 | December 4-5       | Shenzhen, China           | **[Open][258]**                |                          |                      |                      |                             |                              |
+| [code::dive][9]               | 2020 | November 18        | Wrocław, Poland           | **[Open][238]**                |                          |                      |                      |                             |                               |
+| [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           |                                |                          |                      |                      |                             |                               |
+| [C++ CoreHard Spring][174]    | 2020 | October 30-31      | Minsk, Belarus            | **[Open][197]**                | **[Open][212]**          | [C++ Code Hard][215] |                      |     **yes** / **yes**       |          [mail][225]          |
+| [Qt World Summit][205]        | 2020 | October 20-22      | Palm Springs, CA, USA     | Closed                         | **[Open][214]**          |                      |                      |                             |                               |
+| [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       |                                |                          |                      |                      |                             |                               |
+| [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Virtual                   | Closed                         |                          | [LLVM Dev. Meeting 2019][256] |             |            N/A              |                               |
+| [using std::cpp][190]         | 2020 | <s>April 16</s> October | Madrid, Spain        | Closed                         |                          |                      |                      |     **yes** / **yes**       |                               |
+| [CppCon][7]                   | 2020 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |                      |     **yes** / **yes**       |[sponsor][234] [exhibitor][235]|
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         |                 |                               |                         |                    | [YouTube][254]    |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] |                               |                         |                    | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] |                               |                         |                    | [YouTube][124]    |
@@ -337,3 +338,7 @@
 [254] : https://www.youtube.com/c/NDCConferences
 [255] : https://llvm.org/devmtg/2020-09/
 [256] : https://llvm.org/devmtg/2020-09/schedule/
+[257] : http://cpp-summit.org/en
+[258] : http://cpp-summit.org/application/en?uid=c1016
+[259] : http://purecpp.org/detail?id=2207
+[260] : mailto:purecpp@163.com
