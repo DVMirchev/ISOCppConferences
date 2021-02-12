@@ -27,9 +27,9 @@
 | [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [CppCon][279]                 | [CppCon][278]           | [Slides][277]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | [Schedule][284] | [NDC TechTown][283]           |                         |                    |                   |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] | [Italian C++ Conference][287] |                         | [Slides][288]      | [YouTube][151]    |
-| [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] |                               |                         |                    | [YouTube][124]    |
+| [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] | [C++ on Sea][292]             | [C++ on Sea][293]       | [Slides][294]      | [YouTube][124]    |
 | [C++Russia][172]              | 2020 | June 29-July 2     | Online                    | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
-| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | [Schedule][239] |  [emBO++ 2020][251]           |                         |                    | [YouTube][125]    |
+| [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | [Schedule][239] | [emBO++ 2020][251]            |                         |                    | [YouTube][125]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [C++ Day][166]                | 2019 | November 30        | Parma, Italy              |                 |                               |                         | [Slides][202]      |                   |
 | [C++ CoreHard Autumn][174]    | 2019 | November 29-30     | Minsk, Belarus            |                 |                               |                         | [Slides][203]      | [YouTube][236]    |
@@ -378,3 +378,6 @@
 [289] : https://www.italiancpp.org/event/cppday20/
 [290] : https://www.youtube.com/playlist?list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS
 [291] : https://github.com/italiancpp/cppday20
+[292] : https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw/playlists
+[293] : https://www.youtube.com/playlist?list=PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz
+[294] : https://github.com/philsquared/cpponsea-slides/tree/master/2020
