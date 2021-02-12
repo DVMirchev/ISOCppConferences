@@ -17,6 +17,7 @@
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
 | [Pure C++ 2020][259]          | 2020 | December 26        | Shenzhen, China           |                 | [Free by email][260]          |  [Pure C++ 2020][259]   |                    |                   |
 | [Cpp-Summit 2020][257]        | 2020 | December 4-5       | Shenzhen, China           |                 |                               |                         |                    |                   |
+| [C++ Day 2020][6]             | 2020 | November 28        | Online                    | [Schedule][289] | [C++ Day][290]                |                         | [Slides][291]      | [YouTube][151]    |
 | [code::dive][9]               | 2020 | November 18        | Wrocław, Poland           |                 | [code::dive 2020][261]        |                         |                    | [YouTube][108]    |
 | [Meeting C++][8]              | 2020 | November 12-14     | Berlin, Germany           | [Schedule][268] | [Meeting C++][269]            |                         | [Slides][271]      | [YouTube][121]    |
 | [C++ CoreHard Spring][174]    | 2020 | October 30-31      | Minsk, Belarus            |                 |                               |                         |                    |                   |
@@ -25,7 +26,7 @@
 | [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Online                    |                 | [LLVM Dev. Meeting][275]      |                         | [Slides][276]      |                   |
 | [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [CppCon][279]                 | [CppCon][278]           | [Slides][277]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | [Schedule][284] | [NDC TechTown][283]           |                         |                    |                   |
-| [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] |                               |                         |                    | [YouTube][151]    |
+| [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] | [Italian C++ Conference][287] |                         | [Slides][288]      | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] |                               |                         |                    | [YouTube][124]    |
 | [C++Russia][172]              | 2020 | June 29-July 2     | Online                    | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
 | [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | [Schedule][239] |  [emBO++ 2020][251]           |                         |                    | [YouTube][125]    |
@@ -372,3 +373,8 @@
 [284] : https://ndctechtown.com/agenda/
 [285] : https://ndctechtown.com/page/code-of-conduct
 [286] : https://ndctechtown.com/page/partnership/
+[287] : https://www.youtube.com/playlist?list=PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB
+[288] : https://github.com/italiancpp/itcppcon20
+[289] : https://www.italiancpp.org/event/cppday20/
+[290] : https://www.youtube.com/playlist?list=PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS
+[291] : https://github.com/italiancpp/cppday20
