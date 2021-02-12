@@ -7,6 +7,7 @@
 | [ACCU][2]                     | 2021 | March 10-13        | Bristol, UK               |                                | [50% discount before 16.02][263]  | [ACCU][262]          |   **[COC][199]**     |   two nights / **yes**      | [mail][237]                   |
 | [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      | [Open][264]                    | [Open][265]              |                      |                      |      **no** / **no**        |          [page][227]          |
 | [ADC++][250]                  | 2021 | May 17-19          | Regensburg, Germany       |                                | [Open][273]              | [ADC++][272]         |                      |                             |                               |
+| [C++ on Sea][25]              | 2020 | June or July       | Online                    |                                |                          |                      |                      |                             | [page][296]                   |
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
@@ -28,7 +29,7 @@
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | [Schedule][284] | [NDC TechTown][283]           |                         |                    |                   |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] | [Italian C++ Conference][287] |                         | [Slides][288]      | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] | [C++ on Sea][292]             | [C++ on Sea][293]       | [Slides][294]      | [YouTube][124]    |
-| [C++Russia][172]              | 2020 | June 29-July 2     | Online                    | [Schedule][216] |                               |                         |                    | [YouTube][195]    |
+| [C++Russia][172]              | 2020 | July 14-15         | Online                    | [Schedule][216] | [C++Russia][295]              |                         |                    | [YouTube][195]    |
 | [emBO++][21]                  | 2020 | March 10-15        | Bochum, Germany           | [Schedule][239] | [emBO++ 2020][251]            |                         |                    | [YouTube][125]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [C++ Day][166]                | 2019 | November 30        | Parma, Italy              |                 |                               |                         | [Slides][202]      |                   |
@@ -381,3 +382,5 @@
 [292] : https://www.youtube.com/channel/UCAczr0j6ZuiVaiGFZ4qxApw/playlists
 [293] : https://www.youtube.com/playlist?list=PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz
 [294] : https://github.com/philsquared/cpponsea-slides/tree/master/2020
+[295] : https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC
+[296] : https://cpponsea.uk/sponsorship/
