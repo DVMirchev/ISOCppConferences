@@ -5,9 +5,9 @@
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
 | [ACCU][2]                     | 2021 | March 10-13        | Bristol, UK               |                                | [50% discount before 16.02][263]  | [ACCU][262]          |   **[COC][199]**     |   two nights / **yes**      | [mail][237]                   |
-| [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      | [Open][264]                    | [Open][265]              |                      |                      |      **no** / **no**        |          [page][227]          |
-| [ADC++][250]                  | 2021 | May 17-19          | Regensburg, Germany       |                                | [Open][273]              | [ADC++][272]         |                      |                             |                               |
-| [C++ on Sea][25]              | 2021 | June or July       | Online                    |                                |                          |                      |                      |                             | [page][296]                   |
+| [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      | [Open][264]                    | [Open][265]              |                      |   **[COC][299]**     |      **no** / **no**        |          [page][227]          |
+| [ADC++][250]                  | 2021 | May 17-19          | Regensburg, Germany       |                                | [Open][273]              | [ADC++][272]         |   **[COC][298]**     |                             |                               |
+| [C++ on Sea][25]              | 2021 | June or July       | Online                    |                                |                          |                      |   **[COC][300]**     |                             | [page][296]                   |
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
@@ -385,3 +385,6 @@
 [295] : https://www.youtube.com/playlist?list=PLZN9ZGiWZoZruMY-MlkAd-nHzdP9TfLRC
 [296] : https://cpponsea.uk/sponsorship/
 [297] : https://www.italiancpp.org/event/cppday19/
+[298] : https://adcpp.de/21/coc
+[299] : https://cppnow.org/about/code_of_conduct/
+[300] : https://berlincodeofconduct.org/
