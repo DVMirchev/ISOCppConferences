@@ -4,8 +4,8 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
-| [ACCU][2]                     | 2021 | March 10-13        | Bristol, UK               |                                |                          |                      |   **[COC][199]**     |   two nights / **yes**      | [mail][237]                   |
-| [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      |                                |                          |                      |                      |      **no** / **no**        |          [page][227]          |
+| [ACCU][2]                     | 2021 | March 10-13        | Bristol, UK               |                                | [50% discount before 16.02][263]  | [ACCU][262]          |   **[COC][199]**     |   two nights / **yes**      | [mail][237]                   |
+| [C++Now][4]                   | 2021 | May 2-7            | Aspen, Colorado, USA      | [Open][264]                    | [Open][265]              |                      |                      |      **no** / **no**        |          [page][227]          |
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 
 ### Past Conferences {#conferences-past}
@@ -343,3 +343,7 @@
 [259] : http://purecpp.org/detail?id=2207
 [260] : mailto:purecpp@163.com
 [261] : https://www.youtube.com/playlist?list=PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR
+[262] : https://flame.firebird.systems/archer-yates/ACCU2021/MyProgrammes#Programme.ItemPage.104.0
+[263] : https://web.cvent.com/event/b02cb201-20c2-4ee4-8d8d-09b92ac2a80f/summary
+[264] : https://cppnow.org/announcements/2020/12/2021-CfS/
+[265] : https://cppnow.org/announcements/2021/01/2021-registration-is-open/
