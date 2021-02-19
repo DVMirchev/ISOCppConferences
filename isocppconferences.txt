@@ -4,6 +4,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
+| [Cpp Europe][23]              | 2021 | February 23        | Online                    |                                | [Open][305]              | [Cpp Europe][306]    |   **[COC][307]**     |   N/A                       | [page][308]                   |
 | [ACCU][2]                     | 2021 | March 10-13        | Online                    |                                | [Open][263]              | [ACCU][262]          |   **[COC][199]**     |   N/A                       | [mail][237]                   |
 | [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Open][301]                    | [Free or Support][302]   |                      |   **[COC][303]**     |   N/A                       | [page][304]                   |
 | [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Open][264]                    | [Open][265]              |                      |   **[COC][299]**     |   N/A                       | [page][227]                   |
@@ -393,3 +394,7 @@
 [302] : https://www.embo.io/eticket/
 [303] : https://www.embo.io/terms-of-service/
 [304] : https://www.embo.io/call-for-sponsors/
+[305] : https://cppeurope.com/pricing/
+[306] : https://cppeurope.com/schedule/
+[307] : https://cppeurope.com/code-of-conduct/
+[308] : https://cppeurope.com/contact/
