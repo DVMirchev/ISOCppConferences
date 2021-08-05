@@ -5,12 +5,13 @@
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
 | [C++ India][321]              | 2021 | August 15          | Online                    |                                | [Open][324]              | [Schedule][323]      |   **[COC][325]**     |                             |[mail][322]|
-| [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
+| [ACCU Autumn][2]              | 2021 | **[Canceled][326]**| Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 | [CoreC++ &lt;local&gt;][5]    | 2021 | August 25-26       | Tel Aviv, Israel          | [Open][315]                    |                          |                      |   **[COC][211]**     |                             | [mail][316]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | October 24-29      | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
 |                               |      |                    |                           |                                |                          |                      |                      |                             |                               |
 | [C++ North][312]              | 2022 | July 15-21         | Toronto, Canada           |                                |                          |                      |                      |                             | [page][313]  [mail][280]      |
+| [ACCU Autumn][2]              | 2022 | Autumn             | Dublin, Ireland           |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 
 ### Past Conferences {#conferences-past}
 
@@ -420,3 +421,4 @@
 [323] : https://www.cppindia.co.in/conference/2021/schedule/
 [324] : https://www.cppindia.co.in/conference/2021/CppIndiaCon-reg-form/
 [325] : https://www.cppindia.co.in/CodeOfConduct/codeofconduct
+[326] : https://accu.org/conf-news/2021-autumn/2021-04-04-accu2021autumn_cancelled/
