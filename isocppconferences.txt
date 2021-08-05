@@ -4,20 +4,23 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
-| [Cpp Europe][23]              | 2021 | February 23        | Online                    |                                | [Open][305]              | [Cpp Europe][306]    |   **[COC][307]**     |   N/A                       | [page][308]                   |
-| [ACCU][2]                     | 2021 | March 10-13        | Online                    |                                | [Open][263]              | [ACCU][262]          |   **[COC][199]**     |   N/A                       | [mail][237]                   |
-| [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Open][301]                    | [Free or Support][302]   |                      |   **[COC][303]**     |   N/A                       | [page][304]                   |
 | [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Open][264]                    | [Open][265]              |                      |   **[COC][299]**     |   N/A                       | [page][227]                   |
 | [ADC++][250]                  | 2021 | May 17-19          | Online and Regensburg, Germany |                           | [Open][273]              | [ADC++][272]         |   **[COC][298]**     |                             |                               |
 | [C++ on Sea][25]              | 2021 | June or July       | Online                    |                                |                          |                      |   **[COC][300]**     |   N/A                       | [page][296]                   |
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
+|                               |      |                    |                           |                                |                          |                      |                      |                             |                               |
+| [C++ North][312]              | 2022 | July 15-21         | Toronto, Canada           |                                |                          |                      |                      |                             | [page][313]  [mail][280]      |
 
 ### Past Conferences {#conferences-past}
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Schedule][239] |                               |                         |                    | [YouTube][125]    |
+| [ACCU][2]                     | 2021 | March 10-13        | Online                    | [Schedule][311] | [ACCU 2021][309]              | [ACCU 2021][310]        |                    | [YouTube][122]    |
+| [Cpp Europe][23]              | 2021 | February 23        | Online                    | [Schedule][24]  |                               |                         |                    | [YouTube][129]    |
+|                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [Pure C++ 2020][259]          | 2020 | December 26        | Shenzhen, China           |                 | [Free by email][260]          |  [Pure C++ 2020][259]   |                    |                   |
 | [Cpp-Summit 2020][257]        | 2020 | December 4-5       | Shenzhen, China           |                 |                               |                         |                    |                   |
 | [C++ Day 2020][6]             | 2020 | November 28        | Online                    | [Schedule][289] | [C++ Day][290]                |                         | [Slides][291]      | [YouTube][151]    |
@@ -398,3 +401,10 @@
 [306] : https://cppeurope.com/schedule/
 [307] : https://cppeurope.com/code-of-conduct/
 [308] : https://cppeurope.com/contact/
+[309] : https://www.youtube.com/c/ACCUConf/search?query=ACCU%202021%20Day
+[310] : https://www.youtube.com/c/ACCUConf/search?query=ACCU%202021%20Lightning%20Talks
+[311] : https://accu.org/conf-previous/2021/schedule/
+[312] : https://cppnorth.ca/
+[313] : https://cppnorth.ca/sponsorship-prospectus.html
+[314] : mailto:sponsorship@cppnorth.ca
+
