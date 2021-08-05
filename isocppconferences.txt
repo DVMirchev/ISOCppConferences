@@ -22,7 +22,7 @@
 | [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Schedule][317] |                               |                         | [talks][318]       | [YouTube][120]    |
 | [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Schedule][239] |                               |                         |                    | [YouTube][125]    |
 | [ACCU][2]                     | 2021 | March 10-13        | Online                    | [Schedule][311] | [ACCU 2021][309]              | [ACCU 2021][310]        |                    | [YouTube][122]    |
-| [Cpp Europe][23]              | 2021 | February 23        | Online                    | [Schedule][24]  |                               |                         |                    | [YouTube][129]    |
+| [Cpp Europe][23]              | 2021 | February 23        | Online                    | [Schedule][24]  |                               |                         | [Slides][330]      | [YouTube][129]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [Pure C++ 2020][259]          | 2020 | December 26        | Shenzhen, China           |                 | [Free by email][260]          |  [Pure C++ 2020][259]   |                    |                   |
 | [Cpp-Summit 2020][257]        | 2020 | December 4-5       | Shenzhen, China           |                 |                               |                         |                    |                   |
@@ -425,3 +425,5 @@
 [327] : https://ndctechtown.com/tickets
 [328] : https://ndctechtown.com/agenda
 [329] : https://cppcon.org/registration/
+[330] : https://cppeurope.com/blog/slides/cppeurope-2021-online-edition-slides/
+
