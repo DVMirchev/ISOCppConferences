@@ -4,12 +4,11 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Call for<br>Proposals deadline | Registration<br>deadline | Schedule             |  Code of<br>Conduct  | Speaker<br>Lodging / Travel |          Sponsorship          |
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
-| [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Open][264]                    | [Open][265]              |                      |   **[COC][299]**     |   N/A                       | [page][227]                   |
-| [ADC++][250]                  | 2021 | May 17-19          | Online and Regensburg, Germany |                           | [Open][273]              | [ADC++][272]         |   **[COC][298]**     |                             |                               |
-| [C++ on Sea][25]              | 2021 | June or July       | Online                    |                                |                          |                      |   **[COC][300]**     |   N/A                       | [page][296]                   |
+| [C++ India][321]              | 2021 | August 15        | Online                      |                                |                          |                      |                      |                             |[mail][322]|
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
+| [CoreC++ &lt;local&gt;][5]    | 2021 | August 25-26       | Tel Aviv, Israel          | [Open][315]                    |                          |                      |   **[COC][211]**     |                             | [mail][316]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
-| [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
+| [CppCon][7]                   | 2021 | October 24-29    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
 |                               |      |                    |                           |                                |                          |                      |                      |                             |                               |
 | [C++ North][312]              | 2022 | July 15-21         | Toronto, Canada           |                                |                          |                      |                      |                             | [page][313]  [mail][280]      |
 
@@ -17,6 +16,9 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [C++ on Sea][25]              | 2021 | June 30 - July 2   | Online                    | [Schedule][320] |                               |                         |                    | [YouTube][124]    |
+| [ADC++][250]                  | 2021 | May 17-19          | Online and Regensburg, Germany |[Schedule][319]|                            |                         |                    |                   |
+| [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Schedule][317] |                               |                         | [talks][318]       | [YouTube][120]    |
 | [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Schedule][239] |                               |                         |                    | [YouTube][125]    |
 | [ACCU][2]                     | 2021 | March 10-13        | Online                    | [Schedule][311] | [ACCU 2021][309]              | [ACCU 2021][310]        |                    | [YouTube][122]    |
 | [Cpp Europe][23]              | 2021 | February 23        | Online                    | [Schedule][24]  |                               |                         |                    | [YouTube][129]    |
@@ -407,4 +409,11 @@
 [312] : https://cppnorth.ca/
 [313] : https://cppnorth.ca/sponsorship-prospectus.html
 [314] : mailto:sponsorship@cppnorth.ca
-
+[315] : https://corecpp.org/assets/CoreCpp2021_CallForSpeakers.pdf
+[316] : mailto:info@corecpp.org
+[317] : https://cppnow.org/history/2021/schedule/
+[318] : https://cppnow.org/history/2021/talks/
+[319] : https://adcpp.de/21/sessions
+[320] : https://cpponsea.uk/2021/schedule/
+[321] : https://www.cppindia.co.in/conference/2021/conference_home/
+[322] : mailto:info@cppindia.co.in
