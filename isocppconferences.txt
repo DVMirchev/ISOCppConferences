@@ -19,7 +19,7 @@
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
 | [C++ on Sea][25]              | 2021 | June 30 - July 2   | Online                    | [Schedule][320] |                               |                         |                    | [YouTube][124]    |
 | [ADC++][250]                  | 2021 | May 17-19          | Online and Regensburg, Germany |[Schedule][319]|                            |                         |                    |                   |
-| [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Schedule][317] |                               |                         | [talks][318]       | [YouTube][120]    |
+| [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Schedule][317] | [Keynote][332]/[C++Now][333]  |                         | [Slides][318]      | [YouTube][120]    |
 | [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Schedule][239] | [emBO++][331]                 |                         |                    | [YouTube][125]    |
 | [ACCU][2]                     | 2021 | March 10-13        | Online                    | [Schedule][311] | [ACCU 2021][309]              | [ACCU 2021][310]        | [Slides][311]      | [YouTube][122]    |
 | [Cpp Europe][23]              | 2021 | February 23        | Online                    | [Schedule][24]  |                               |                         | [Slides][330]      | [YouTube][129]    |
@@ -427,5 +427,7 @@
 [329] : https://cppcon.org/registration/
 [330] : https://cppeurope.com/blog/slides/cppeurope-2021-online-edition-slides/
 [331] : https://www.youtube.com/watch?v=3E_YxyGEjlA&list=PLIXq8kws1BI13bcTWNriKzirk5ayZehzT
+[332] : https://www.youtube.com/playlist?list=PL_AKIMJc4roWcpnvR9lzXhv_5ei8nBdpP
+[333] : https://www.youtube.com/playlist?list=PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq
 
 
