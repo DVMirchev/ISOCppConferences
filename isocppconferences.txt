@@ -6,7 +6,7 @@
 |-------------------------------|------|--------------------|---------------------------|--------------------------------|--------------------------|----------------------|----------------------|-----------------------------|-------------------------------|
 | [C++ India][321]              | 2021 | August 15          | Online                    |                                | [Open][324]              | [Schedule][323]      |   **[COC][325]**     |                             |[mail][322]|
 | [ACCU Autumn][2]              | 2021 | **[Canceled][326]**| Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
-| [CoreC++ &lt;local&gt;][5]    | 2021 | August 25-26       | Tel Aviv, Israel          | [Open][315]                    |                          |                      |   **[COC][211]**     |                             | [mail][316]                   |
+| [CoreC++ &lt;local&gt;][5]    | 2021 | August 25-26       | Tel Aviv, Israel          | [Open][315]                    | [Open][240]              | [Schedule][16]       |   **[COC][211]**     |                             | [mail][316]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | October 24-29      | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
 |                               |      |                    |                           |                                |                          |                      |                      |                             |                               |
@@ -343,7 +343,7 @@
 [237] : mailto:accu@archer-yates.co.uk
 [238] : https://codedive.pl/register/cfp
 [239] : https://www.embo.io/#schedule
-[240] : https://corecpp.org/schedule/
+[240] : https://ti.to/hamakor/corecpp-local-2021/
 [241] : http://cppnow.org/schedule/
 [250] : https://adcpp.de/
 [251] : https://www.youtube.com/playlist?list=PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ
