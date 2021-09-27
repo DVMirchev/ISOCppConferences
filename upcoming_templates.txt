@@ -9,3 +9,6 @@
 | [ACCU Autumn][2]              | 2021 | October 4-5        | Belfast, UK               |                                |                          |                      |   **[COC][199]**     |                             | [mail][237]                   |
 | [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                                |                          |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
+
+
+| [C++ Russia][3]               | 2019 | November 15-18     | Online                    |                                | [Open][334]              |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
