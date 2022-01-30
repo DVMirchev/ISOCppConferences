@@ -4,6 +4,7 @@
 
 |           Name             | Year | Conference<br>Date |       Location        | Proposals   | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
 |----------------------------|------|--------------------|-----------------------|-------------|--------------|-----------------|------------|--------------------|-------------------------------|
+| [Cpp Europe][23]           | 2021 | March 29           | Online                |             | [Open][308]  | [Schedule][306] |[ COC][307] |                    | [page][369]                   |
 | [ACCU][2]                  | 2022 | April 6-9          | Bristol, UK           |             | [Open][366]  | [Schedule][367] | [COC][199] |                    | [mail][237]                   |
 | [C++Now][4]                | 2022 | May 1-6            | Aspen, Colorado, USA  | [Open][352] |              |                 | [CoC][299] |                    | [page][227]  [mail][336]      |
 | [C++ on Sea][25]           | 2020 | July 4-7           | Folkestone, UK        | [Open][187] | [Open][368]  |                 | [CoC][211] |                    | [page][296]                   |
@@ -460,3 +461,4 @@
 [366] : https://web.cvent.com/event/e8ba411e-d0b4-4636-bf66-0b0adba79757/
 [367] : https://accu.digital-medium.co.uk/schedule/
 [368] : https://cpponsea.uk/tickets/
+[369] : https://cppeurope.com/partners/
