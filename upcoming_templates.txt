@@ -11,4 +11,3 @@
 | [CppCon][7]                   | 2021 | September 13-18    | Aurora, Colorado, USA     |                                |                          |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
 
 
-| [C++ Russia][3]               | 2019 | November 15-18     | Online                    |                                | [Open][334]              |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
