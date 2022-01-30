@@ -2,12 +2,14 @@
 
 ### Upcoming Conferences {#conferences-upcoming}
 
-|           Name             | Year | Conference<br>Date |       Location        | Proposals  | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
-|----------------------------|------|--------------------|-----------------------|------------|--------------|-----------------|------------|--------------------|-------------------------------|
-| [C++Now][4]                | 2022 | May 1-6            | Aspen, Colorado, USA  |            |              |                 | [CoC][299] |                    | [page][227]  [mail][336]      |
-| [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |            |              |                 | [CoC][334] |                    | [page][313]  [mail][314]      |
-| [ACCU Autumn][2]           | 2022 | Autumn             | Dublin, Ireland       |            |              |                 | [CoC][199] |                    | [mail][237]                   |
-| [CppCon][7]                | 2022 | September 11-16    | Aurora, Colorado, USA |            | [Open][329]  |                 | [CoC][282] |                    | [sponsor][234]([mail][280])
+|           Name             | Year | Conference<br>Date |       Location        | Proposals   | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
+|----------------------------|------|--------------------|-----------------------|-------------|--------------|-----------------|------------|--------------------|-------------------------------|
+| [C++Now][4]                | 2022 | May 1-6            | Aspen, Colorado, USA  |             |              |                 | [CoC][299] |                    | [page][227]  [mail][336]      |
+| [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |             |              |                 | [CoC][334] |                    | [page][313]  [mail][314]      |
+| [C++ Russia][172]          | 2022 | June 6-9           | Online                | [Open][351] | [Open][350]  |                 | [COC][345] |                    | [mail][344]                   |
+| [ACCU Autumn][2]           | 2022 | Autumn             | Dublin, Ireland       |             |              |                 | [CoC][199] |                    | [mail][237]                   |
+| [CppCon][7]                | 2022 | September 11-16    | Aurora, Colorado, USA |             | [Open][329]  |                 | [CoC][282] |                    | [sponsor][234]([mail][280])   |
+
 ### Past Conferences {#conferences-past}
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
@@ -447,3 +449,5 @@
 [347] : https://cppconf.ru/en/2021/spb/talks/
 [348] : https://github.com/CppCon/
 [349] : https://www.youtube.com/watch?v=pfIC-kle4b0&list=PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze
+[350] : https://cppconf.ru/en/registration/personal/
+[351] : https://cppconf.ru/en/callforpapers/
