@@ -1,4 +1,4 @@
-## Conferences Worldwide   {#conferences-worldwide}
+                                                    ## Conferences Worldwide   {#conferences-worldwide}
 
 ### Upcoming Conferences {#conferences-upcoming}
 
@@ -7,21 +7,21 @@
 | [CoreC++ &lt;local&gt;][5] | 2021 | August 25-26       | Tel Aviv, Israel      |            | [Open][240]  | [Schedule][16]  | [CoC][211] |                    | [mail][316]                   |
 | [NDC TechTown][109]        | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway     |            | [Open][327]  | [Schedule][328] | [CoC][285] |                    | [partnership][286]            |
 | [ACCU Autumn][2]           | 2021 | **[Canceled][326]**| Belfast, UK           |            |              |                 | [CoC][199] |                    | [mail][237]                   |
-| [CppCon][7]                | 2021 | October 24-29      | Aurora, Colorado, USA |            | [Open][329]  |                 | [CoC][282] |                    | [sponsor][234]([mail][280])  [exhibitor][235]([mail][335]) |
 | [CPPP][113]                | 2021 | December 1-3       | Online                |[open][337] |              |                 | [CoC][338] |                    | [page][232] [mail][339]       |
 | [C++ Russia][172]          | 2021 | November 15-18     | Online                |            | [Open][346]  | [Schedule][347] | [COC][345] |                    | [mail][344]                   |
 |                            |      |                    |                       |            |              |                 |            |                    |                               |
 | [C++Now][4]                | 2022 | May 1-6            | Aspen, Colorado, USA  |            |              |                 | [CoC][299] |                    | [page][227]  [mail][336]      |
 | [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |            |              |                 | [CoC][334] |                    | [page][313]  [mail][314]      |
 | [ACCU Autumn][2]           | 2022 | Autumn             | Dublin, Ireland       |            |              |                 | [CoC][199] |                    | [mail][237]                   |
-
+| [CppCon][7]                | 2022 | September 11-16    | Aurora, Colorado, USA |            | [Open][329]  |                 | [CoC][282] |                    | [sponsor][234]([mail][280])
 ### Past Conferences {#conferences-past}
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [CppCon][7]                   | 2021 | October 24-29      | Online & Aurora, Colorado | [Schedule][281] | [YouTube][349]                | [YouTube][118]          | [GitHub][348]      | [YouTube][118]    |
 | [C++ India][321]              | 2021 | August 15.         | Online                    | [Schedule][323] |                               |                         |                    | [YouTube][124]    |
 | [C++ on Sea][25]              | 2021 | June 30 - July 2   | Online                    | [Schedule][320] |                               |                         |                    | [YouTube][124]    |
-| [Italian C++ Conference][6]   | 2021 | June 19            | Online                    | [Schedule][341] | [Italian C++ Conference][340] |                       | [Slides][342]      |  [YouTube][343]               |
+| [Italian C++ Conference][6]   | 2021 | June 19            | Online                    | [Schedule][341] | [Italian C++ Conference][340] |                         | [Slides][342]      | [YouTube][343]    |
 | [ADC++][250]                  | 2021 | May 17-19          | Online and Regensburg, Germany |[Schedule][319]|                            |                         |                    |                   |
 | [C++Now][4]                   | 2021 | May 2-7            | Online                    | [Schedule][317] | [Keynote][332]/[C++Now][333]  |                         | [Slides][318]      | [YouTube][120]    |
 | [emBO++][21]                  | 2021 | March 25-27        | Online                    | [Schedule][239] | [emBO++][331]                 |                         |                    | [YouTube][125]    |
@@ -37,7 +37,7 @@
 | [Qt World Summit][205]        | 2020 | October 20-22      | Palm Springs, CA, USA     |                 | [Qt World Summit][270]        |                         |                    |                   |
 | [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       | [Schedule][274] |                               |                         |                    |                   |
 | [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Online                    |                 | [LLVM Dev. Meeting][275]      |                         | [Slides][276]      |                   |
-| [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [CppCon][279]                 | [CppCon][278]           | [Slides][277]      | [YouTube][118] [Channel&nbsp;9][119]|
+| [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [YouTube][279]                | [YouTube][278]           | [GitHub][277]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | [Schedule][284] | [NDC TechTown][283]           |                         |                    |                   |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] | [Italian C++ Conference][287] |                         | [Slides][288]      | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] | [C++ on Sea][292]             | [C++ on Sea][293]       | [Slides][294]      | [YouTube][124]    |
@@ -52,7 +52,7 @@
 | [Cpp-Summit 2019][267]        | 2019 | November 2-3       | Shanghai, China           |                 |                               |                         |                    |                   |
 | [C++Russia][131]              | 2019 | Oct. 31 - Nov. 1   | St. Petersburg, Russia    | [Schedule][132] | [C++Russia 2019][194]         |                         |                    | [YouTube][195]    |
 | [LLVM Dev. Meeting][170]      | 2019 | October 22-23      | San Jose, CA, USA         | [Schedule][170] | [LLVM Dev. Meeting 2019][191] |                         | [Slides][192]      | [YouTube][193]    |
-| [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | [Schedule][164] | [CppCon 2019][181]            |                         | [Slides][182]      | [YouTube][118] [Channel&nbsp;9][119]|
+| [CppCon][7]                   | 2019 | September 15-20    | Aurora, Colorado, USA     | [Schedule][164] | [YouTube][181]                | [YouTube][118]          | [GitHub][182]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2019 | September 2-5      | Kongsberg, Norway         | [Schedule][111] | [NDC TechTown 2019][179]      |                         |                    | [YouTube][254]    |
 | [CPPP ][113]                  | 2019 | June 15            | Paris, France             | [Schedule][114] | [CPPP 2019][177]              |                         | [Slides][180]      | [YouTube][176]    |
 | [Italian C++ Conference][6]   | 2019 | June 15            | Milan, Italy              | [Schedule][17]  | [Italian C++ 2019][162]       |                         | [Slides][163]      | [YouTube][151]    |
@@ -447,3 +447,5 @@
 [345] : https://cppconf.ru/en/coc/
 [346] : https://cppconf.ru/en/registration/
 [347] : https://cppconf.ru/en/2021/spb/talks/
+[348] : https://github.com/CppCon/
+[349] : https://www.youtube.com/watch?v=pfIC-kle4b0&list=PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze
