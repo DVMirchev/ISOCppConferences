@@ -4,12 +4,6 @@
 
 |           Name             | Year | Conference<br>Date |       Location        | Proposals  | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
 |----------------------------|------|--------------------|-----------------------|------------|--------------|-----------------|------------|--------------------|-------------------------------|
-| [CoreC++ &lt;local&gt;][5] | 2021 | August 25-26       | Tel Aviv, Israel      |            | [Open][240]  | [Schedule][16]  | [CoC][211] |                    | [mail][316]                   |
-| [NDC TechTown][109]        | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway     |            | [Open][327]  | [Schedule][328] | [CoC][285] |                    | [partnership][286]            |
-| [ACCU Autumn][2]           | 2021 | **[Canceled][326]**| Belfast, UK           |            |              |                 | [CoC][199] |                    | [mail][237]                   |
-| [CPPP][113]                | 2021 | December 1-3       | Online                |[open][337] |              |                 | [CoC][338] |                    | [page][232] [mail][339]       |
-| [C++ Russia][172]          | 2021 | November 15-18     | Online                |            | [Open][346]  | [Schedule][347] | [COC][345] |                    | [mail][344]                   |
-|                            |      |                    |                       |            |              |                 |            |                    |                               |
 | [C++Now][4]                | 2022 | May 1-6            | Aspen, Colorado, USA  |            |              |                 | [CoC][299] |                    | [page][227]  [mail][336]      |
 | [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |            |              |                 | [CoC][334] |                    | [page][313]  [mail][314]      |
 | [ACCU Autumn][2]           | 2022 | Autumn             | Dublin, Ireland       |            |              |                 | [CoC][199] |                    | [mail][237]                   |
@@ -18,7 +12,11 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [CPPP][113]                   | 2021 | December 1-3       | Online                    |                 |                               |                         |                    |                   |
+| [C++ Russia][172]             | 2021 | November 15-18     | Online                    |                 | [Open][346]                   |                         |                    |                   |
 | [CppCon][7]                   | 2021 | October 24-29      | Online & Aurora, Colorado | [Schedule][281] | [YouTube][349]                | [YouTube][118]          | [GitHub][348]      | [YouTube][118]    |
+| [NDC TechTown][109]           | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway         |                 | [Open][327]                   |                         |                    |                   |
+| [CoreC++ &lt;local&gt;][5]    | 2021 | August 25-26       | Tel Aviv, Israel          |                 | [Open][240]                   |                         |                    |                   |
 | [C++ India][321]              | 2021 | August 15.         | Online                    | [Schedule][323] |                               |                         |                    | [YouTube][124]    |
 | [C++ on Sea][25]              | 2021 | June 30 - July 2   | Online                    | [Schedule][320] |                               |                         |                    | [YouTube][124]    |
 | [Italian C++ Conference][6]   | 2021 | June 19            | Online                    | [Schedule][341] | [Italian C++ Conference][340] |                         | [Slides][342]      | [YouTube][343]    |
