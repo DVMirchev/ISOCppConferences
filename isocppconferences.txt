@@ -4,6 +4,7 @@
 
 |           Name             | Year | Conference<br>Date |       Location        | Proposals   | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
 |----------------------------|------|--------------------|-----------------------|-------------|--------------|-----------------|------------|--------------------|-------------------------------|
+| [Cpp Europe][23]           | 2022 | May 24             | Online                |             | [Open][377]  | [Schedule][24]  | [COC][307] |                    | [page][308]                   |
 | [C++ Russia][172]          | 2022 | June 6-9           | Online                | [Open][351] | [Open][350]  |                 | [CoC][345] |                    | [mail][344]                   |
 | [C++ on Sea][25]           | 2022 | July 4-7           | Folkestone, UK        |             | [Open][368]  | [Schedule][372] | [CoC][211] |                    | [page][296]                   |
 | [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |             | [Open][354]  | [Schedule][355] | [CoC][334] |                    | [page][313]  [mail][314]      |
@@ -16,9 +17,8 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
-| [C++Now][4]                   | 2022 | May 1-6            | Aspen, Colorado, USA      |                 |                               |                         |                    |                   |
-| [ACCU][2]                     | 2022 | April 6-9          | Bristol, UK               | [Schedule][367] |                               |                         |                    |                   |
-| [Cpp Europe][23]              | 2022 | March 29           | Online                    | [Schedule][306] |                               |                         |                    |                   |
+| [C++Now][4]                   | 2022 | May 1-6            | Aspen, Colorado, USA      | [Schedule][376] |                               |                         |                    | [YouTube][120]    |
+| [ACCU][2]                     | 2022 | April 6-9          | Bristol, UK               | [Schedule][367] |                               |                         |                    | [YouTube][122]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
 | [CPPP][113]                   | 2021 | December 1-3       | Online                    |                 |                               |                         |                    |                   |
 | [C++ Russia][172]             | 2021 | November 15-18     | Online                    |                 | [Open][346]                   |                         |                    |                   |
@@ -471,3 +471,5 @@
 [373] : https://accu.digital-medium.co.uk/schedule
 [374] : https://meetingcpp.com/meetingcpp/news/items/Call-for-talks-for-Meeting-Cpp-2022.html
 [375] : https://meetingcpp.com/2022/Ticketshop.html
+[376] : https://cppnow.digital-medium.co.uk/2022-schedule/
+[377] : https://mozaicworks.com/product/cppeurope-conference
