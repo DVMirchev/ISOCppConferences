@@ -2,7 +2,6 @@
 
 |           Name             | Year | Conference<br>Date |       Location        | Proposals   | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
 |----------------------------|------|--------------------|-----------------------|-------------|--------------|-----------------|------------|--------------------|-------------------------------|
-| [Cpp Europe][23]           | 2022 | May 24             | Online                |             | [Open][377]  | [Schedule][24]  | [COC][307] |                    | [page][308]                   |
 | [C++ Russia][172]          | 2022 | June 6-9           | Online                | [Open][351] | [Open][350]  |                 | [CoC][345] |                    | [mail][344]                   |
 | [C++ on Sea][25]           | 2022 | July 4-7           | Folkestone, UK        |             | [Open][368]  | [Schedule][372] | [CoC][211] |                    | [page][296]                   |
 | [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |             | [Open][354]  | [Schedule][355] | [CoC][334] |                    | [page][313]  [mail][314]      |
@@ -16,6 +15,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [Cpp Europe][23]              | 2021 | May 24             | Online                    |                 |                               |                         | [Slides][330]      | [YouTube][129]    |
 | [C++Now][4]                   | 2022 | May 1-6            | Aspen, Colorado, USA      | [Schedule][376] |                               |                         |                    | [YouTube][120]    |
 | [ACCU][2]                     | 2022 | April 6-9          | Bristol, UK               | [Schedule][367] |                               |                         |                    | [YouTube][122]    |
 |                               |      |                    |                           |                 |                               |                         |                    |                   |
