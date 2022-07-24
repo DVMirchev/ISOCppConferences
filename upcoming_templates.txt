@@ -10,6 +10,10 @@
 | [NDC TechTown][109]        | 2021 | Aug. 30 - Sep. 2   | Kongsberg, Norway     |             |              |                      |   **[COC][285]**     |                             | [partnership][286]            |
 | [CppCon][7]                | 2021 | September 13-18    | Aurora, Colorado, USA |             |              |                      |   **[COC][282]**     |                             | [page][234]  [mail][280]      |
 | [C++ Russia][172]          | 2021 | November 15-18     | Online                |             | [Open][346]  | [Schedule][347]      |   **[COC][345]**     |                             | [mail][344]                   |
+| [Meeting C++][8]           | 2022 | November 16-19     | Berlin/online, Germany| [Open][374] | [Open][375]  |                 | [CoC][211] |                    | [page][370]                   |
+| [Core C++][5]              | 2022 | September 5-7      | Tel Aviv, Israel      | [Open][371] |              |                 | [CoC][211] |                    | [mail][316]                   |
+| [CppIndiaCon][378]         | 2022 | August 6           | India.                | [Open][379] | [Open][380]  |                 | [CoC][381] |                    | [page][382]  [mail][383]      |
+| [C++ North][312]           | 2022 | July 15-21         | Toronto, Canada       |             | [Open][354]  | [Schedule][355] | [CoC][334] |                    | [page][313]  [mail][314]      |
 
 
 | [Cpp Europe][23]              | 2022 | March 29           | Online                    | [Schedule][306] |                               |                         |                    | [YouTube][129]    |
