@@ -9,7 +9,7 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
-| [Meeting C++][8]              | 2022 | November 16-19     | Berlin/online, Germany    |                 |                               |                         |                    | [YouTube][121]    |
+| [Meeting C++][8]              | 2022 | November 16-19     | Berlin/online, Germany    | [Schedule][395] | [Meeting C++][396]            |                         | [Slides][367]      | [YouTube][121]    |
 | [ACCU Autumn][2]              | 2022 | Autumn             | Dublin, Ireland           |                 |                               |                         |                    | [YouTube][122]    |
 | [CppCon][7]                   | 2022 | September 11-16    | Aurora, Colorado, USA     |                 |                               |                         |                    | [YouTube][118]    |
 | [Core C++][5]                 | 2022 | September 5-7      | Tel Aviv, Israel          |                 |                               |                         |                    | [YouTube][143]    |
@@ -490,3 +490,6 @@
 [392] : https://usingstdcpp.org/using-stdcpp-2023/call-for-talks-using-stdcpp-2023/
 [393] : https://usingstdcpp.org/using-stdcpp-2023/call-for-sponsors-using-stdcpp-2023/
 [394] : mailto:jdgarcia@inf.uc3m.es
+[395] : https://meetingcpp.com/2022/Schedule.html
+[396] : https://www.youtube.com/playlist?list=PLRyNF2Y6sca26zZjdpWS-NmRiKkJEOBFl
+[367] : https://meetingcpp.com/mcpp/slides/?year=2022
