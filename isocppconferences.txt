@@ -2,11 +2,6 @@
 
 |           Name             | Year | Conference<br>Date |       Location        | Proposals   | Registration | Schedule        |  Conduct   | Speaker<br>Support |          Sponsorship          |
 |----------------------------|------|--------------------|-----------------------|-------------|--------------|-----------------|------------|--------------------|-------------------------------|
-| [CppIndiaCon][378]         | 2022 | August 6           | India.                | [Open][379] | [Open][380]  |                 | [CoC][381] |                    | [page][382]  [mail][383]      |
-| [Core C++][5]              | 2022 | September 5-7      | Tel Aviv, Israel      | [Open][371] |              |                 | [CoC][211] |                    | [mail][316]                   |
-| [CppCon][7]                | 2022 | September 11-16    | Aurora, Colorado, USA |             | [Open][329]  |                 | [CoC][282] |                    | [sponsor][234]([mail][280])   |
-| [ACCU Autumn][2]           | 2022 | Autumn             | Dublin, Ireland       |             |              |                 | [CoC][199] |                    | [mail][237]                   |
-| [Meeting C++][8]           | 2022 | November 16-19     | Berlin/online, Germany| [Open][374] | [Open][375]  |                 | [CoC][211] |                    | [page][370]                   |
 | [using std::cpp][391]      | 2023 | April, 27          | Leganés, Madrid, Spain| [Open][392] |              |                 | [CoC][211] | Limited                   | [page][393] ([mail][394])     |
 
 
@@ -14,6 +9,11 @@
 
 |                Name           | Year | Conference<br>Date |         Location          | Schedule        |       Talk Videos             | Lightning<br>Talk Videos| Slides             | Video Channel     |
 |-------------------------------|------|--------------------|---------------------------|-----------------|-------------------------------|-----------------------  |--------------------|-------------------|
+| [Meeting C++][8]              | 2022 | November 16-19     | Berlin/online, Germany    |                 |                               |                         |                    | [YouTube][121]    |
+| [ACCU Autumn][2]              | 2022 | Autumn             | Dublin, Ireland           |                 |                               |                         |                    | [YouTube][122]    |
+| [CppCon][7]                   | 2022 | September 11-16    | Aurora, Colorado, USA     |                 |                               |                         |                    | [YouTube][118]    |
+| [Core C++][5]                 | 2022 | September 5-7      | Tel Aviv, Israel          |                 |                               |                         |                    | [YouTube][143]    |
+| [CppIndiaCon][378]            | 2022 | August 6           | India.                    |                 |                               |                         |                    |                   |
 | [C++ North][312]              | 2022 | July 15-21         | Toronto, Canada           | [Schedule][355] | [C++ North][389]              |                         |                    | [YouTube][390]    |
 | [C++ on Sea][25]              | 2022 | July 4-7           | Folkestone, UK            | [Schedule][372] | [C++ on Sea][386]             |                         |                    | [YouTube][124]    |
 | [C++ Russia][172]             | 2022 | June 6-9           | Online                    | [Schedule][384] | [C++ Russia][385]             |                         |                    |                   |
@@ -44,7 +44,7 @@
 | [Qt World Summit][205]        | 2020 | October 20-22      | Palm Springs, CA, USA     |                 | [Qt World Summit][270]        |                         |                    |                   |
 | [ADC++][250]                  | 2020 | October 13-14      | Regensburg, Germany       | [Schedule][274] |                               |                         |                    |                   |
 | [LLVM Dev. Meeting][255]      | 2020 | October 6-8        | Online                    |                 | [LLVM Dev. Meeting][275]      |                         | [Slides][276]      |                   |
-| [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [YouTube][279]                | [YouTube][278]           | [GitHub][277]      | [YouTube][118] [Channel&nbsp;9][119]|
+| [CppCon][7]                   | 2020 | September 13-18    | Online                    | [Schedule][281] | [YouTube][279]                | [YouTube][278]          | [GitHub][277]      | [YouTube][118] [Channel&nbsp;9][119]|
 | [NDC TechTown][109]           | 2020 | Aug. 31 - Sep. 3   | Kongsberg, Norway         | [Schedule][284] | [NDC TechTown][283]           |                         |                    |                   |
 | [Italian C++ Conference][6]   | 2020 | June 13            | Online                    | [Schedule][253] | [Italian C++ Conference][287] |                         | [Slides][288]      | [YouTube][151]    |
 | [C++ on Sea][25]              | 2020 | July 15-17         | Online                    | [Schedule][252] | [C++ on Sea][292]             | [C++ on Sea][293]       | [Slides][294]      | [YouTube][124]    |
@@ -490,4 +490,3 @@
 [392] : https://usingstdcpp.org/using-stdcpp-2023/call-for-talks-using-stdcpp-2023/
 [393] : https://usingstdcpp.org/using-stdcpp-2023/call-for-sponsors-using-stdcpp-2023/
 [394] : mailto:jdgarcia@inf.uc3m.es
-
